@@ -1,0 +1,1770 @@
+
+======================================================================
+CHUNK_ID: 1
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 1
+======================================================================
+
+Drishti Publications
+(A Unit of VDK Publications Pvt. Ltd.)
+641, First Floor, Dr. Mukherjee Nagar, Delhi-110009 
+Telephone: 011-47532596, 8750187501
+Website 
+www.drishtiias.com
+General Science General Science 
+andand
+Science & TechnologyScience & Technology
+
+
+======================================================================
+CHUNK_ID: 2
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 2
+======================================================================
+
+CONTENTS
+BIOLOGY
+ 1. Classification of Living Organisms 3-6
+	? Taxonomy 3
+	? Systematics 3
+	? Need for Classification 3
+	? History of Classification 3
+	? Classification of Organisms 3
+	? Phylogeny 4
+	? Two Kingdom System of 
+Classification 4
+	? Five Kingdom System of 
+Classification 5
+	? Viruses, Viroids, Prions and Lichens 6
+ 2. Cytology 7-12
+	? Characteristics of Cell 7
+	? Classification of Cells 7
+	? Animal Cell 8
+	? Plant Cell 10
+	? Similarities between Animal Cell 
+and Plant Cell 10
+	? Differences between Animal Cells 
+and Plant Cells 10
+	? Cell Theory 11
+	? Cell Division 11
+ 3. Plants 13-19
+	? Plant Kingdom 13
+	? Plant Morphology 15
+	? Plant Tissue 16
+	? Plant Nutrition 17
+	? Mineral Nutrition and Plants 17
+	? Plant Hormone 18
+ 4. Photosynthesis 20-22
+	? Structure of Plant Leaves 21
+	? Factors Affecting Photosynthesis 22
+	? Why is Photosynthesis Important? 22
+ 5. Systems of Human Body 23-40
+	? Digestive System 23
+	? Circulatory System 25
+	? Blood Transfusion 28
+
+
+======================================================================
+CHUNK_ID: 3
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 2
+======================================================================
+
+? Circulatory System 25
+	? Blood Transfusion 28
+	? Respiratory System 30
+	? Nervous System 32
+	? Reflex Action and Reflex Arc 32
+	? Sensory Reception and Processing 32
+	? Endocrine System 33
+	? Skeletal and Muscular System 35
+	? Reproductive System 36
+	? Excretory System 37
+	? Disorders of the Excretory System 38
+	? Immune System and Immunity 38
+	? Antigen (Antibody Generator) 39
+	? Antibodies 39
+	? Immunization  40
+ 6. Genetics 41-44
+	? Mendel’s Laws of Inheritance 41
+	? Sex Determination in Humans 41
+	? Mutation 41
+	? Genetic Disorders 41
+	? Molecular Basis of Inheritance 42
+ 7. Nutrition 45-52
+	? Carbohydrates 45
+	? Proteins 45
+	? Fats 46
+	? Water 46
+	? Minerals 46
+
+
+======================================================================
+CHUNK_ID: 4
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 3
+======================================================================
+
+(vi)
+	? Vitamins 46
+	? Dietary Fibre or Roughage 48
+	? Balanced Diet 48
+	? Anorexia Nervosa (Refusal to eat 
+food)  49
+	? Malnutrition 49
+	? Overweight 51
+	? Intoxicants 52
+ 8. Human Diseases 53-60
+	? Types of Diseases 53
+	? Communicable Diseases 53
+	? Non-communicable Diseases 55
+	? Some other Related Diseases 57
+	? Cure and Protection from Diseases 60
+	? Some Related Facts 60
+CHEMISTRY
+ 1. Matter 3-7
+	? Physical Nature of Matter 3
+	? Characteristics of Particles of Matter 3
+	? States of Matter 3
+	? Change of State of Matter 4
+	? Evaporation 4
+	? Classification of Matter 4
+	? Pure Substances 5
+	? Solution 6
+	? Suspension 6
+	? Colloidal Solution 6
+	? Separating the Components of 
+Mixture 7
+	? Physical and Chemical Changes 7
+ 2. Atoms and Molecules 8-10
+	? Atom 8
+	? Dalton’s Atomic Theory 8
+	? Constituents of an Atom 8
+	? Thomson’s Model of Atom 8
+	? Rutherford’s Model of Atom 9
+	? Bohr’s Model of Atom 9
+	? Valency 9
+	? Atomic Number 9
+	? Mass Number 9
+
+
+======================================================================
+CHUNK_ID: 5
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 3
+======================================================================
+
+? Valency 9
+	? Atomic Number 9
+	? Mass Number 9
+	? Representation of Atomic Symbol 9
+	? Isotopes 10
+	? Isobars 10
+	? Isotones 10
+	? Molecules 10
+	? Atomicity 10
+	? Avogadro’s Hypothesis 10
+	? Mole 10
+	? Atomic Mass 10
+	? Molecular Mass 10
+ 3. Periodic Table and Classification 11-13
+	? Modern Periodic Table 11
+	? Trends in Modern Periodic Table 11
+ 4. Chemical Bonding 14-15
+	? Ionic or Electrovalent Bond 14
+	? Covalent Bond 14
+	? Co-ordinate Bond 15
+	? Hydrogen Bonding 15
+ 5. Oxidation and Reduction 16-17
+	? Oxidation and Reduction 16
+	? Oxidising and Reducing Agents 16
+	? Redox Reactions 16
+	? Types of Reactions 16
+	? Catalyst 17
+ 6. Acids, Bases and Salts 18-20
+	? Acids 18
+	? Bases 18
+	? pH Scale 19
+	? Salts 20
+
+
+======================================================================
+CHUNK_ID: 6
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 4
+======================================================================
+
+(vii)
+ 7. Metals and Non-Metals 21-25
+	? Physical Properties 21
+	? Chemical Properties of Metals 22
+	? Reactivity Series 22
+	? Ionic Compounds 23
+	? Occurrence of Metals 23
+	? Extraction of Metals 23
+	? Refining of Metals 25
+	? Corrosion 25
+	? Alloy 25
+ 8. Carbon and its Compound 26-29
+	? Carbon 26
+	? Hydrocarbons 27
+	? Plastics 27
+	? Rubber 28
+	? Polymer 28
+	? Soaps and Detergents 29
+ 9. Chemistry in Everyday Life 30-31
+	? Drugs 30
+	? Chemicals in Food 30
+	? Plant Protection Chemicals 30
+	? Fertilizers 30
+	? Soaps and Detergents 30
+	? Paints 31
+	? Dyes 31
+	? Explosives 31
+PHYSICS
+ 1. Motion 3-6
+	? Rest and Motion 3
+	? Types of Motion 3
+	? Terms Used to Describe Motion 3
+	? Circular Motion 4
+	? Newton’s Laws of Motion 5
+	? Frictional Force 6
+ 2. Work, Energy & Power 7-8
+	? Work 7
+	? Energy 7
+	? Power 8
+ 3. Gravitation 9-11
+	? What is Gravity? 9
+	? Gravitational Force 9
+	? Newton’s Law of Gravitation 9
+	? Kepler’s Laws 9
+	? Variation in ‘Acceleration Due
+
+
+======================================================================
+CHUNK_ID: 7
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 4
+======================================================================
+
+? Variation in ‘Acceleration Due 
+to Gravity’ with Height & Depth 9
+	? Apparent Weight of a Body in a 
+Lift 10
+	? Satellites 10
+	? Types of Artificial Satellite 10
+	? Escape Velocity 11
+ 4. Properties of Fluid 12-13
+	? Buoyancy 12
+	? Surface Tension 12
+	? Capillarity 12
+ 5. Heat 14-15
+	? What is Heat? 14
+	? Temperature 14
+	? Relations between different Scales 
+of Temperature 14
+	? Measuring Temperature 14
+	? Change in the States of Matter 
+with the Application of Heat 14
+	? Transfer of Heat 15
+	? Thermal Expansion 15
+	? Black Body & White Body 15
+	? Greenhouse Effect 15
+ 6. Wave 16-18
+	? Types of Waves 16
+
+
+======================================================================
+CHUNK_ID: 8
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 5
+======================================================================
+
+(viii)
+ 7. Sound 19-21
+ 8. Light 22-28
+	? Some Facts About Light  22
+	? Reflection of Light 22
+	? Plane Mirror 22
+	? Spherical Mirror 22
+	? Total Internal Reflection 25
+	? Refraction Through Lens 25
+	? Dispersion of Light 26
+	? Scattering of Light  27
+	? Interference of Light 27
+	? Diffraction of Light 27
+	? Polarization of Light  27
+	? Human Eye  27
+ 9. Electricity and Magnetism 29-33
+	? Electric Charge 29
+	? Coulomb’s Law 29
+	? Electric Field  29
+	? Electric Cell 29
+	? Electric Conductor, Insulator 
+and Semiconductor 29
+	? Electric Current 30
+	? Electric Potential 30
+	? Appliances used in Electrical 
+Measurement 30
+	? Ohm’s Law 30
+	? Resistance of the Conductor 30
+	? Combination of Resistances  31
+	? Electric Power 31
+	? Fuse 31
+	? Heating Effect of Electric Current 31
+	? Chemical Effects of Electric Current 31
+	? Applications of Electrolysis 31
+	? Magnetic Effects of Electric 
+Current 32
+	? What is Magnetism? 32
+	? Poles of a Magnet 32
+	? Electromagnet  32
+	? Magnetic Field 32
+
+
+======================================================================
+CHUNK_ID: 9
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 5
+======================================================================
+
+? Electromagnet  32
+	? Magnetic Field 32
+	? Classification of Magnetic Material  32
+	? Electric Motor 32
+	? Electromagnetic Induction 33
+	? Electric Generator 33
+	? Lenz’s Law 33
+	? Transformer 33
+	? Electric Bell 33
+	? Magnetism of Earth 33
+ 10. Modern Physics 34-35
+	? Radioactivity 34
+	? Nuclear Fission 34
+	? Nuclear Reactor 35
+	? Nuclear Fusion 35
+	? Mass Energy Relation 35
+SCIENCE & TECHNOLOGY
+ 1. Science & Technology in India 3-17
+	? Institutional Setup in India 3
+	? Science, Technology and 
+Innovation (STI) Policy, 2013 4
+	? Five Year Plans and Science &  
+Technology 5
+	? Contribution of Indian Scientists 
+in Science & Technology 6
+ 2. Science & Technology in Rajasthan 18-19
+	? Science & Technological 
+Development in Rajasthan 18
+	? Major Achievements Through 
+Science and Technology in 
+Rajasthan 18
+
+
+======================================================================
+CHUNK_ID: 10
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 6
+======================================================================
+
+(ix)
+ 3. Basics of Computers 20-26
+	? What does Computer mean? 20
+	? Computer Organization 22
+	? Computer Language 23
+	? Computer Security 25
+ 4. Telecommunication 27-32
+	? Evolution of the Telecom Sector 
+in India 27
+	? Some of the Main Institutions of 
+Indian Telecommunication 29
+	? Telecom Regulatory Authority of 
+India 30
+	? The National Digital 
+Communications Policy, 2018 30
+ 5. Space Science & Technology 33-59
+	? What is an Orbit? 33
+	? Satellite Launching 34
+	? Space Debris 36
+	? Indian Space Programme: 
+Glimpses 37
+	? ISRO 38
+	? Indian Launch Vehicles 39
+	? Indian Satellites 42
+	? Scientific Exploration Missions 49
+	? Outer Space Treaty 54
+	? Draft Space Activities Bill 55
+	? Space Missions and Programmes of 
+International Agencies 56
+ 6. Defence Technology 60-77
+	? Missile System 60
+	? Integrated Guided Missile 
+Development Program (IGMDP) 60
+	? Cruise Missiles of India 62
+	? Aircrafts 64
+	? Unmanned Aerial Vehicles (UAVs) 65
+	? Indian Naval Vessels 67
+
+
+======================================================================
+CHUNK_ID: 11
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 6
+======================================================================
+
+? Indian Naval Vessels 67
+	? Defence Manufacturing 70
+	? India-US COMCASA Agreement 73
+	? Defence Expo 2020 73
+	? Defence Corridors 73
+	? DRDO’s Area of Research Centres 74
+	? Shekatkar Committee 75
+	? Military Exercises 76
+	? Chemical Weapons 76
+	? Challenges before Indian 
+Defence Sector 77
+ 7. Information and Communication 
+  Technology 78-99
+	? Applications of ICT 78
+	? Computer Technologies and 
+ICT Devices 81
+	? Data Transmission 84
+	? Communication Technology 85
+	? Computer Security 92
+	? 5G Technology 98
+	? Data Localisation 99
+ 8. Biotechnology 100-120
+	? Green/Agricultural Biotechnology 100
+	? Red/Medical Biotechnology 104
+	? White/Industrial Biotechnology 108
+	? Blue/Marine Biotechnology 110
+	? Grey/Environmental 
+Biotechnology 111
+	? Miscellaneous Concepts 113
+ 9. Nuclear Technology 121-138
+	? Radioactivity 121
+	? Nuclear Energy 121
+	? India’s Nuclear Energy 
+Programme 125
+
+
+======================================================================
+CHUNK_ID: 12
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 7
+======================================================================
+
+(x)
+	? Institutional Structure for 
+Development of Nuclear 
+Technology in India 127
+	? Nuclear Doctrine of India 130
+	? Nuclear Safety and issues 130
+	? Foreign Collaborations: India 132
+	? International Agreements and 
+Treaties 135
+ 10. Energy 139-149
+	? Conventional/Non- Renewable 
+Sources of Energy 139
+	? Renewable Sources of Energy 142
+	? Miscellaneous Topics 146
+	? Electric Mobility 149
+ 11. Nanotechnology 150-158
+	? Nanotechnology 150
+	? Applications of Nanotechnology 150
+	? Nanomaterials 153
+	? Other Developments in 
+Nanotechnology 155
+	? Nanotechnology in India 156
+ 12. Robotics 159-162
+	? Robot 159
+	? Robotics in India 162
+ 13. Science & Technology in 
+  Everyday Life 163-174
+	? Drugs 163
+	? Chemicals in Food 164
+	? Cleansing Agents 165
+	? Hard Water 166
+	? Glass 167
+	? Microwave Oven 168
+	? Digital Storage Devices 168
+	? 3D Printing 168
+	? Television 169
+	? Mobile Telephony 171
+ 14. Laser Technology 175-179
+	? Laser 175
+	? Laser Technology in India 178
+
+
+======================================================================
+CHUNK_ID: 13
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 7
+======================================================================
+
+? Laser 175
+	? Laser Technology in India 178
+ 15. Artificial Intelligence 180-185
+	? Artificial Intelligence 
+Technology: Examples 180
+	? Applications of Artificial 
+Intelligence 180
+	? Artificial Intelligence: Challenges 181
+	? Blockchain Technology 181
+	? Artificial Intelligence in India 182
+ 16. Superconductivity 186-188
+	? Superconductor and 
+Superconductivity 186
+	? Historical Background 186
+	? Salient Features of 
+Superconductors 186
+	? Advantages of Superconductivity 186
+	? Challenges 187
+	? Applications 187
+	? Indian Scenario 188
+  PRACTICE QUESTIONS FOR  
+  PRELIMS  189-196
+  PRACTICE QUESTIONS FOR  
+  MAINS  197-198
+
+
+======================================================================
+CHUNK_ID: 14
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 8
+======================================================================
+
+53Drishti Publications
+Disease refers to a disorder of structure or function in a 
+human, animal, or plant, especially one that produces specific 
+symptoms or that affects a specific location and is not simply 
+a direct result of physical injury. It is a departure from normal 
+health due to structural or functional disorder of the body.
+TYPES OF DISEASES
+Diseases can broadly be classified as: Congenital diseases 
+and Acquired diseases.
+Congenital Diseases
+	z These diseases are present since birth.
+	z They could be due to a genetic abnormality or due to the 
+malfunctioning of any organ or system.
+	z These are permanent, and generally not curable and may 
+be inherited by the children.
+	z For example: Albinism, Down’s syndrome, Hemophilia etc.
+Acquired Diseases
+	z These diseases develop after birth.
+	z They can further be classified into:
+	 Communicable (or infectious) Diseases, and
+	 Noncommunicable (or noninfectious) Diseases.
+COMMUNICABLE DISEASES
+
+
+======================================================================
+CHUNK_ID: 15
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 8
+======================================================================
+
+COMMUNICABLE DISEASES
+	z A communicable disease is one that is spread from one 
+person to another through a variety of ways that include: 
+contact with blood and bodily fluids; breathing in an 
+airborne virus; or by being bitten by an insect.
+	z The most common pathogens are bacteria, virus, 
+protozoan, worms, fungi, mites, etc.
+	z The first symptoms of the disease do not necessarily 
+appear immediately.
+	z The period between the entry of germs and the appearance 
+of the first symptoms of the disease is known as the 
+incubation period. Examples: Cholera, Malaria, 
+Tuberculosis, Influenza, etc.
+Causes of Communicable (Infectious) Diseases
+	z Bacteria: Infections like strep throat, urinary tract 
+infections, and tuberculosis are caused by these single-
+celled species.
+	z Viruses: Viruses, which are much smaller than bacteria, 
+are responsible for a wide range of illnesses, from common 
+cold to AIDS.
+	z Fungi: Fungi are responsible for a variety of skin diseases,
+
+
+======================================================================
+CHUNK_ID: 16
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 8
+======================================================================
+
+including ringworm and athlete’s foot. Fungi can also affect 
+the lungs and nervous system.
+	z Parasites: Malaria is caused by a bacterial infection spread 
+by mosquito bites. Other parasites can be transmitted to 
+humans via the faeces of animals.
+Direct Contact
+	z Coming into contact with an infected person or animal 
+is a simple way to contract most infectious diseases. 
+These diseases are transmitted by direct contact in the 
+following ways:
+	 Person to person: Infectious diseases are commonly 
+transmitted from one person to another through direct 
+transmission of bacteria, viruses, or other germs. 
+When a person infected with the bacterium or virus 
+touches, kisses, coughs, or sneezes on someone who 
+isn’t infected, this may happen.
+	 These germs can also spread through sexual 
+contact due to the sharing of body fluids. The 
+individual who spreads the germs may not show 
+any signs of the disease and is merely a carrier.
+	 Animal to person: Being bitten or scratched by an
+
+
+======================================================================
+CHUNK_ID: 17
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 8
+======================================================================
+
+infected animal, even though it is a pet, will make you 
+sick and, in some cases, even kill you. Animal waste 
+can be dangerous to handle.
+	 Mother to unborn child: Germs that cause infectious 
+diseases may be passed from a pregnant woman to 
+her unborn child. Germs may pass through the 
+placenta or breast milk in some cases. During birth, 
+germs in the vaginal region may be transferred to 
+the infant.
+Indirect Contact
+	z Disease-causing organisms also can be passed by indirect 
+contact. Many germs can linger on an inanimate object, 
+such as a tabletop, doorknob or faucet handle.
+88 Human Diseases
+
+
+======================================================================
+CHUNK_ID: 18
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 9
+======================================================================
+
+54 Drishti Publications
+ 55Drishti Publications
+General Science and Science & Technology
+Human Diseases
+Diseases Caused by Bacteria
+Disease Name of Bacteria Transmission Symptoms
+Diphtheria Corynebacterium 
+diphtheriae
+Contact Affects the throat, difficulty in respiration 
+and suffocation
+Pertussis 
+(Whooping Cough)
+Haemophilus pertussis By discharge from the throat 
+of an infected person
+Continuous coughing
+Tetanus Clostridium tetani By bacteria in soil through 
+wounds
+High fever, spasms in body, locking of jaws
+Cholera Vibrio cholerae Flies, food, faeces, carriers Continuous stool and vomiting
+Typhoid Salmonella typhi Flies, food Continuous fever, reddish eruptions on chest 
+& abdomen
+Pneumonia Diplococcus 
+pneumoniae Contact with air High fever, inflammation of lungs, fatigue
+Tuberculosis Mycobacterium 
+tuberculosis Coughing General weakness, regular fever, coughing, 
+bloodstained sputum
+Syphilis Treponema pallidum Direct contact, sexually 
+transmitted
+
+
+======================================================================
+CHUNK_ID: 19
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 9
+======================================================================
+
+transmitted
+Ulcer on penis or on rectum, lips, tongue, 
+nipple, skin rash, fever
+Gonorrhoea Neisseria gonorrhoeae Sexual contact Pain in passing urine, discharge of pus, pain
+Leprosy Mycobacterium leprae Long and close contact Spots on the body and nerves are affected
+Diseases Caused by Virus
+Disease Name of Virus Transmission Symptoms
+Poliomyelitis Polio virus Houseflies, food and 
+water
+Fever, body pain, backbone and intestine cells 
+are destroyed
+Mumps Mumps Virus (Paramyxovirus) Contact, virus in saliva 
+spreads The movement of the jaw becomes very difficult.
+Measles Measles virus (Paramyxovirus) Contact Reddish eruptions on body
+AIDS HIV Blood and sexual contact Weak immune system
+Influenza (flu) Orthomyxovirus Contact Droplet infection created by sneezing, coughing 
+or talking
+Dengue Dengue Virus (DENV) (the 
+virus has five types) Aedes Mosquito Reduction in platelet count; Pain in eyes, head, 
+muscles and joints
+
+
+======================================================================
+CHUNK_ID: 20
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 9
+======================================================================
+
+muscles and joints
+Chickenpox Varicella Virus Contact Dark red-coloured rash or pox changing into 
+vesicles, which then form crusts and fall
+Smallpox Variola virus Contact
+Light fever, widespread skin rash beginning with 
+flat spots which change into raising bumps then 
+firm fluid filled blisters which then scab.
+(Contd…)
+Insect Bites
+	z Some germs rely on insect carriers, such as mosquitoes, 
+fleas, lice or ticks, to move from host to host. These carriers 
+are known as vectors. 
+	z Mosquitoes can carry the malaria parasite or West Nile 
+virus. Deer ticks may carry the bacterium that causes 
+Lyme disease.
+Food Contamination
+	z Disease-causing germs can also infect us through 
+contaminated food and water. This mechanism of 
+transmission allows germs to be spread to many people 
+through a single source. 
+	z Escherichia coli (E. coli), for example, is a bacterium present 
+in or on certain foods, such as undercooked hamburger or 
+unpasteurized fruit juice.
+
+
+======================================================================
+CHUNK_ID: 21
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 10
+======================================================================
+
+20 Drishti Publications
+ 21Drishti Publications
+Basics of Computers
+WHAT DOES COMPUTER MEAN?
+	z A computer is a programmable device designed to perform 
+‘arithmetic and logical operations’  automatically and 
+sequentially on the input given by the user and gives the 
+desired output after processing. Computers can also store 
+data for later uses in appropriate storage devices, and 
+retrieve it whenever it is necessary.
+	z Modern computers are electronic devices used for a variety 
+of purposes ranging from browsing the web, writing 
+documents, editing videos, creating applications, playing 
+video games, etc.
+	z They are designed to execute applications and provide a 
+variety of solutions by combining integrated hardware and 
+software components.
+	z Computer components are divided into two major 
+categories namely hardware and software. Hardware is 
+the machine itself and its connected devices such as the 
+monitor, keyboard, mouse etc. Software is the set of
+
+
+======================================================================
+CHUNK_ID: 22
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 10
+======================================================================
+
+programs that make use of hardware for performing 
+various functions.
+Characteristics of Computer
+The characteristics of computers that have made them 
+so powerful and universally useful are −
+	z Speed: Computers work at an incredible speed. A powerful 
+computer is capable of performing about 3-4 million simple 
+instructions per second.
+	z Accuracy: In addition to being fast, computers are also 
+accurate. Errors that may occur can almost always be 
+attributed to human error (inaccurate data, poorly 
+designed system or faulty instructions/programs written 
+by the programmer).
+	z Diligence: Unlike human beings, computers are highly 
+consistent. They do not suffer from human traits of 
+boredom and tiredness resulting in a lack of concentration. 
+Computers, therefore, are better than human beings in 
+performing voluminous and repetitive jobs.
+	z Versatility: Computers are versatile machines and are 
+capable of performing any task as long as it can be broken
+
+
+======================================================================
+CHUNK_ID: 23
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 10
+======================================================================
+
+down into a series of logical steps. The presence of 
+computers can be seen in almost every sphere – Railway/
+Air reservation, Banks, Hotels, Weather forecasting and 
+many more.
+	z Storage Capacity:  Today’s computers can store large 
+volumes of data. A piece of information once recorded (or 
+stored) in the computer, can never be forgotten and can 
+be retrieved almost instantaneously
+Application of Computers
+Home
+Computers are used at homes for several purposes like 
+online bill payment, watching movies or shows at home, 
+home tutoring, social media access, playing games, internet 
+access, etc. They provide communication through electronic 
+mail. They help to avail work from home facility for corporate 
+employees. Computers help the student community to avail 
+online educational support.
+Medical Field
+Computers are used in hospitals to maintain a database of 
+patients’ history, diagnosis, X-rays, live monitoring of patients,
+
+
+======================================================================
+CHUNK_ID: 24
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 10
+======================================================================
+
+etc. Surgeons nowadays use robotic surgical devices to perform 
+delicate operations, and conduct surgeries remotely. Virtual 
+Reality technologies are also used for training purposes. It also 
+helps to monitor the fetus inside the mother’s womb.
+Entertainment
+Computers help to watch movies online, play games 
+online, act as a virtual entertainer in playing games, listening 
+to music, etc.
+Industry
+Computers are used to perform several tasks in industries 
+like managing inventory, designing purpose, creating virtual 
+sample products, interior designing, video conferencing, etc., 
+Online marketing has seen a great revolution in its ability to 
+sell various products to inaccessible corners like interior or 
+rural areas. Stock markets have seen phenomenal participation 
+from different levels of people through the use of computers.
+Education
+Computers are used in the education sector through 
+online classes, online examinations, referring e-books, online
+
+
+======================================================================
+CHUNK_ID: 25
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 10
+======================================================================
+
+tutoring, etc. They help in increased use of audio-visual aids 
+in the education field.
+33 Basics of Computers
+
+
+======================================================================
+CHUNK_ID: 26
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 11
+======================================================================
+
+20 Drishti Publications
+ 21Drishti Publications
+Basics of Computers
+Government
+In government sectors, computers are used in data 
+processing, maintaining a database of citizens and supporting 
+a paperless environment. The country’s defense organizations 
+have greatly benefitted from computers in their use for missile 
+development, satellites, rocket launches, etc.
+Banking
+In the banking sector, computers are used to store details 
+of customers and conduct transactions, such as withdrawal and 
+deposit of money through ATMs. Banks have reduced manual 
+errors and expenses to a great extent through extensive use 
+of computers.
+Business
+Nowadays, computers are totally integrated into business. 
+The main objective of business is transaction processing, which 
+involves transactions with suppliers, employees or customers. 
+Computers can make these transactions easy and accurate. 
+People can analyze investments, sales, expenses, markets and 
+other aspects of business using computers.
+Training
+
+
+======================================================================
+CHUNK_ID: 27
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 11
+======================================================================
+
+Training
+Many organizations use computer-based training to train 
+their employees, to save money and improve performance. 
+Video conferencing through computers allows saving of 
+time and travelling costs by being able to connect people 
+in various locations.
+Arts
+Computers are extensively used in dance, photography, 
+arts and culture. The fluid movement of dance can be shown 
+live via animation. Photos can be digitized using computers.
+Science and Engineering
+Computers with high performance are used to stimulate 
+dynamic processes in Science and Engineering. Supercomputers 
+have numerous applications in the area of Research and 
+Development (R&D). Topographic images can be created 
+through computers. Scientists use computers to plot and 
+analyze data to have a better understanding of earthquakes 
+and other natural phenomena.
+Disadvantages of Computer
+The disadvantages of computers in today’s arena are-
+	z No Intelligence Quotient (IQ) – A computer is a machine
+
+
+======================================================================
+CHUNK_ID: 28
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 11
+======================================================================
+
+that has no intelligence to perform any task. Each 
+instruction has to be given to the computer. A computer 
+is unable to take any decision on its own.
+	z Dependency – It functions as per a user’s instruction, so 
+it is fully dependent on a human being.
+	z No Feeling – Computers have no feelings or emotions. It 
+cannot make judgement based on feeling, taste, 
+experience, and knowledge, unlike a human being.
+Generations of Computers
+Computer generations are based on the major use of 
+vacuum tubes, transistors, and the microprocessor. As of 2020, 
+there are five generations of the computer.
+First generation (1940-1956)
+The first generation of computers used vacuum tubes as a 
+major piece of technology. Vacuum tubes were widely used in 
+computers from 1940 through 1956. Vacuum tubes were larger 
+components and resulted in first-generation computers being 
+quite large in size, taking up a lot of space in a room. Some of 
+the first-generation computers took up an entire room.
+
+
+======================================================================
+CHUNK_ID: 29
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 11
+======================================================================
+
+The ENIAC is a great example of a first-generation 
+computer. It consisted of nearly 20,000 vacuum tubes, 10,000 
+capacitors, and 70,000 resistors. It weighed over 30 tons and 
+took up a lot of space, requiring a large room to house it. Other 
+examples of first-generation computers include the EDSAC, 
+IBM 701, and Manchester Mark 1.
+Second generation
+The second generation of computers saw the use of 
+transistors instead of vacuum tubes. Transistors were widely 
+used in computers from 1956 to 1963. Transistors were smaller 
+than vacuum tubes and allowed computers to be smaller in 
+size, faster in speed, and cheaper to build.
+The first computer to use transistors was the TX-0 and 
+was introduced in 1956. Other computers that used transistors 
+include the IBM 7070, Philco Transac S-1000, and RCA 501
+Third generation (1964-1971)
+The third generation of computers introduced the use of 
+IC (integrated circuits) in computers. Using IC’s in computers
+
+
+======================================================================
+CHUNK_ID: 30
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 11
+======================================================================
+
+helped reduce the size of computers even more than second-
+generation computers, and also made them faster.
+Nearly all computers since the mid to late 1960s have 
+utilized IC’s. While the third generation is considered by many 
+people to have spanned from 1964 to 1971, IC’s are still used in 
+computers today. Over 45 years later, today’s computers have 
+deep roots going back to the third generation.
+Fourth generation (1972-2010)
+The fourth generation of computers took advantage of 
+the invention of the microprocessor, more commonly known 
+as a CPU. Microprocessors, with integrated circuits, helped 
+make it possible for computers to fit easily on a desk and for 
+the introduction of the laptop.
+
+
+======================================================================
+CHUNK_ID: 31
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 12
+======================================================================
+
+27Drishti Publications
+Telecommunications are the means of electronic 
+transmission of information over distances through a vast range 
+of information-transmitting technologies such as telephones, 
+telegraph, radio, microwave communication arrangements, 
+fiber optics, satellites and the Internet. The information may 
+be in the form of voice telephone calls, data, text, images, or 
+video.
+Telecommunications and broadcasting are administered 
+worldwide by an agency of the United Nations called the 
+International Telecommunication Union (ITU). Most countries 
+have their own agencies for enforcing telecommunications 
+regulations.
+EVOLUTION OF THE 
+TELECOM SECTOR IN INDIA
+	z The Indian telecom sector is more than 165 years old. 
+Telecommunications was first introduced in India in 1851 
+when the first operational land lines were laid by the 
+government near Kolkata (then Calcutta), although 
+telephone services were formally introduced in India much 
+later in 1881.
+
+
+======================================================================
+CHUNK_ID: 32
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 12
+======================================================================
+
+later in 1881.
+	z Further, in 1883, telephone services were merged with the 
+postal system. In 1947, after India attained independence, 
+all foreign telecommunication companies were nationalised 
+to form the Posts, Telephone and Telegraph (PTT), a body 
+that was governed by the Ministry of Communication.
+	z The Indian telecom sector was entirely under government 
+ownership until 1984 when the private sector was allowed 
+in telecommunication equipment manufacturing only. The 
+government concretised its earlier efforts towards 
+developing R&D in the sector by setting up an autonomous 
+body – Centre for Development of Telematics (C-DOT) in 
+1984 to develop state-of-the-art telecommunication 
+technology to meet the growing needs of the Indian 
+telecommunication network.
+	z The actual evolution of the industry started after the 
+Government separated the Department of Post and 
+Telegraph in 1985 by setting up the Department of Posts 
+and the Department of Telecommunications (DoT).
+
+
+======================================================================
+CHUNK_ID: 33
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 12
+======================================================================
+
+and the Department of Telecommunications (DoT).
+Issues and Challenges of Telecom Sector
+	z High Right-of-Way (ROW) cost: Sometimes, state 
+governments charge a huge amount for permitting the 
+laying of fiber, etc.
+	z Lack of fixed-line penetration:  India has very little 
+penetration of fixed-line in its network whereas most of 
+the developed countries have a very high penetration of 
+fixed lines (telephone lines that traveled through a metal 
+wire or optical fiber as part of a nationwide telephone 
+network). Also, only around 25% of Towers in India are 
+connected with fibre networks, whereas in developed 
+nations, it is in excess of 70%. The 5G Network requires 
+towers to be connected with very high-speed systems. 
+Those high speeds are not possible on the present radio 
+systems.
+	z Declining Average Revenue Per User (ARPU): ARPU’s 
+decline now is sharp and steady, which, combined with 
+falling profits and in some cases, serious losses, is
+
+
+======================================================================
+CHUNK_ID: 34
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 12
+======================================================================
+
+prompting the Indian telecom industry to look at 
+consolidation as the only way to boost revenues.
+	z Limited Spectrum Availability: Available spectrum is less 
+than 40% as compared to European nations and 50% as 
+compared to China.
+	z Low Broadband Penetration: Low broadband penetration 
+in the country is a matter of concern. 
+	z Over the Top (OTT) applications such as WhatsApp, OLA 
+and so on do not need permission or a pact with a 
+telecommunications company. This hampers the revenue 
+of telecommunication service providers.
+44 Telecommunication
+
+
+======================================================================
+CHUNK_ID: 35
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 13
+======================================================================
+
+28 Drishti Publications
+ 29Drishti Publications
+General Science and Science & Technology
+Telecommunication
+	z Huge fluctuations in the duties on Telecom Equipment 
+which contribute to connecting the whole system from 
+the central server to the consumer.
+	z The timeframe of policy execution: The government has 
+withdrawn a lot of things to benefit the telecom sector 
+but by the time it gets executed to the market, it becomes 
+too late.
+	z Lack of Telecom Infrastructure in Semi-rural and Rural 
+areas: Service providers have to incur a huge initial fixed 
+cost to enter semi-rural and rural areas.
+	z Pressure on Margins Due to Stiff Competition: With 
+competition heating up post-entry of Reliance Jio, other 
+telecom players are feeling the heat of a substantial drop 
+in tariff rates both for voice and data (more significant for 
+data subscribers).
+Steps Taken by the Government
+	z A new National Digital Communications Policy – 2018 
+(NDCP-2018) was unveiled in Oct 2018, to replace National
+
+
+======================================================================
+CHUNK_ID: 36
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 13
+======================================================================
+
+Telecom Policy-2012, to cater to the modern needs of the 
+digital communications sector of India. The policy aims to 
+attract USD 100 billion worth of investments and generate 
+4 million jobs in the sector by 2022.
+	z The Telecom Commission was re-designated as the “Digital 
+Communications Commission”.
+	z In 2017, the Department of Telecom (DoT) came up with 
+a gazette notification, advising the state governments to 
+give quicker ROW permission and charge very little amount 
+to service providers. Though, only some states responded.
+	z The government has provided benefits to the telecom 
+sector by withdrawing some duties.
+	z The government has fast-tracked reforms in the telecom 
+sector and continues to be proactive in providing room for 
+growth for telecom companies.
+	z The Department of Information Technology intends to set 
+up over 1 million internet-enabled common service centres 
+across India as per the National e-Governance Plan.
+
+
+======================================================================
+CHUNK_ID: 37
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 13
+======================================================================
+
+z Foreign Direct Investment(FDI) cap in the telecom sector 
+has been increased to 100% from 74%. Out of 100%, 49% 
+will be done through automatic route and the rest will be 
+done through the Foreign Investment Promotion Board 
+(FIPB) approval route. FDI of up to 100% is permitted for 
+infrastructure providers offering dark fibre, electronic mail 
+and voice mail.
+	z The Government of India has introduced the Digital India 
+programme under which all the sectors such as healthcare, 
+retail, etc. will be connected through the internet.
+Suggestions
+	z NDCP-2018 advocates:-
+	 Establishment of a National Digital Grid by creating a 
+National Fibre Authority;
+	 Establishing Common Service Ducts and utility 
+corridors in all new city and highway road projects;
+	 Creating a collaborative institutional mechanism 
+between Centre, States and Local Bodies for Common 
+Rights of Way, standardization of costs and timelines; 
+	 Removal of barriers to approvals; and
+
+
+======================================================================
+CHUNK_ID: 38
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 13
+======================================================================
+
+ Removal of barriers to approvals; and
+	 Facilitating the development of Open Access Next 
+Generation Networks.
+	z Explore the option of revenue sharing agreement between 
+Internet players and telecommunication companies.
+	z Outsourcing non-core functions such as network 
+maintenance, IT operations and customer service.
+	z Divestment of tower assets into separate companies will 
+enable curb costs and focus on core operations.
+	z Introduce new and efficient technologies such as M2M 
+(technology that enables networked devices to exchange 
+information and perform actions without the manual 
+assistance of humans) and cloud computing.
+	z Benefits of industry status in line with other infrastructure 
+sectors in the country to be implemented.
+	z Penetration of rural markets (72% of the population staying 
+in rural areas) will be the key growth driver.
+	z The government should increase the network area through 
+optical fibre instead of copper which is expensive. This is
+
+
+======================================================================
+CHUNK_ID: 39
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 13
+======================================================================
+
+necessary to ensure last-mile connectivity.
+	z The government needs to prepare a ground for easy right-
+of-way permissions and lower the cost of right-of-ways.
+	z It is time to go for a generational shift to ensure that the 
+current tariff is financially viable for service providers.
+	z Telecom Operators should leverage on the talent pool in 
+the country which is bringing in a lot of new innovations 
+in AI, blockchain technology etc.
+	z New Infrastructure on a shareable basis just like the way 
+telecom service providers share the cost of towers is the 
+need of the hour.
+	z The government should spend more on R&D and create 
+an environment that makes India capable of manufacturing 
+and exporting hardware components like mobile handsets, 
+CCTV Cameras, touch screen monitors etc.
+Conclusion
+	z The telecom sector in India has to deal with various 
+challenges like maintaining a sufficient spectrum, adoption 
+of new technologies faster to be able to use the new
+
+
+======================================================================
+CHUNK_ID: 40
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 13
+======================================================================
+
+features and techniques to serve the customers with better 
+and feature-rich service.
+
+
+======================================================================
+CHUNK_ID: 41
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 14
+======================================================================
+
+33Drishti Publications
+Outer Space refers to the void that exists between celestial 
+bodies. There is no boundary where outer space is said to 
+begin, but according to space treaties the Kármán line located 
+at an altitude of 100 km above sea level is conventionally used 
+as the start of outer space. Asteroids, Comets, Kuiper Belt 
+Objects and all other kinds of celestial bodies of rock, metal 
+and ice are in constant motion as they orbit the Sun.
+Space research is scientific study carried out in outer 
+space. Space research involves dual use technology with 
+application in both civilian and defence sectors. Indian space 
+research also involves dual use technology and other countries 
+that possess this technology include Russia, USA, European 
+Union, Israel, Japan and China.
+WHAT IS AN ORBIT?
+An orbit is a regular and repeating curved trajectory of an 
+object in space. An object in an orbit is called a Satellite. The
+
+
+======================================================================
+CHUNK_ID: 42
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 14
+======================================================================
+
+object in orbit can be an artificial satellite or a natural satellite. 
+The earth, like any other planets in space, rotates around the 
+sun, in its own orbital path at a constant speed. For the planets, 
+the orbits are almost circular.
+Types of Orbits
+On the Basis of Altitude
+	z Low Earth Orbit (LEO)
+	 A low Earth orbit is normally at an altitude of less than 
+2000 km and could be as low as 160 km above the 
+Earth. Satellites in this circular orbit travel at a speed 
+of around 7.8 km per second. At this speed, a satellite 
+takes approximately 90 minutes to circle the	Earth. 
+Objects that are placed in the Low Earth Orbit are 
+subject to atmospheric drag. Atmospheric Drag is a 
+process of reduction of the altitude of a satellite’s orbit 
+due to frequent collision of gas molecules and it is a 
+cause of orbital decay.” So, Higher the orbital altitude, 
+lower will be the atmospheric density and drag. 
+However, beyond 1000 km above the earth’s surface,
+
+
+======================================================================
+CHUNK_ID: 43
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 14
+======================================================================
+
+objects will be subject to Earth’s “Van Allen Radiation 
+Zone” – it is a very sensitive zone, filled with energetic 
+charged particles from solar winds and cosmic rays, 
+that are captured by the earth’s magnetic field leading 
+to varying levels of radiation. So, to avoid catastrophes, 
+missions to LEO aims for altitude between 160 km to 
+1000 km above the earth’s surface.
+How an Orbit is Formed?
+Orbit is a result of perfect balance between the momentum 
+of an object and the force of gravity. “When an object is 
+in motion, it will be in motion unless some external force 
+is applied to it – Newton’s First Law”. When an object is 
+released into space, it follows a straight trajectory, but due 
+to the earth’s gravity the object is pulled towards it and 
+the trajectory becomes curved shaped and then follows an 
+orbital motion.
+Note: The trajectory of an orbit can be circular or elliptical
+	 LEO is the circular orbit in which Remote Sensing Satellites
+
+
+======================================================================
+CHUNK_ID: 44
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 14
+======================================================================
+
+(RSS) are launched. Remote Sensing Satellites follow a 
+circular orbit moving from North Pole to the South Pole, 
+therefore this orbit is also known as Polar Orbit. In a 24 
+hour period, polar orbiting satellites will view most of 
+the Earth twice: once in daylight and another in darkness. 
+Moreover, within LEO, high bandwidth communication 
+can be experienced with low time lag.
+	z Medium Earth Orbit (MEO)
+	 MEO generally lies at an altitude range between 2000 
+km to 35786 km above the surface of earth.
+	 Two medium Earth orbits are notable: the semi-
+synchronous orbit and the Molniya orbit.
+	 The semi-synchronous orbit is a near-circular orbit at 
+about 20,200 kilometers above the earth’s surface. A 
+satellite at this height takes 12 hours to complete an 
+orbit. In 24-hours, the satellite crosses over the same 
+two spots on the equator every day.
+	 The Molniya orbit is used for observing high latitudes.
+	 The most common use of satellites in this region is for
+
+
+======================================================================
+CHUNK_ID: 45
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 14
+======================================================================
+
+navigation, such as GPS, Glonass and Galileo 
+constellations. Communications satellites that cover 
+the North and South Pole are also put in MEO. On the 
+contrary, due to comparatively high altitude more 
+ground coverage can be achieved.
+55 Space Science & Technology
+
+
+======================================================================
+CHUNK_ID: 46
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 15
+======================================================================
+
+34 Drishti Publications
+ 35Drishti Publications
+General Science and Science & Technology
+Space Science & Technology
+	 Nevertheless, MEO has disadvantages too. With the 
+increase in altitude as compared to LEO, propagation 
+delay begin to creep into the transmission of signals. Thus 
+the power required to transmit the signal will increase.
+	z Geosynchronous Earth Orbit (GEO)
+	 Geosynchronous Earth orbit lies at the highest altitude 
+of approximately 36000 km above the earth’s equator.
+	 The orbital period is equal to the earth’s rotational 
+period around its axis, which allows satellites to match 
+Earth’s rotation. This position is a valuable spot for 
+monitoring weather, communications and surveillance.
+	 A Satellite in the Geosynchronous orbit can see or 
+track one spot of the planet all the time. Satellites in 
+this orbit can be used for military and commercial 
+purposes such as telephone, internet and television. 
+It also ensures a stable connectivity as it can spot a
+
+
+======================================================================
+CHUNK_ID: 47
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 15
+======================================================================
+
+single area over months or years.
+On the Basis of Application
+	z Geostationary Orbit (GSO):  The geostationary orbit is a 
+special case of geosynchronous orbit in which a satellite 
+moves in a circular geosynchronous orbit in the equatorial 
+plane in the direction of the earth’s rotation. The satellite 
+in this orbit has the same orbital period as the rotation of 
+the earth around its axis, making it appear stationary 
+relative to a fixed spot on the earth. This allows for them 
+to provide constant coverage of an area. This orbit is good 
+for providing television broadcasting, weather monitoring 
+and communication services.
+	z Sun Synchronous Orbit: It is a special type of polar orbit. 
+Here the orbital plane of the satellite has been always at 
+the same constant angle relative to the sun-earth line during 
+all seasons. A Sun-synchronous orbit crosses over the 
+equator at approximately the same local time each day (and 
+night). This orbit keeps the angle of sunlight on the surface
+
+
+======================================================================
+CHUNK_ID: 48
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 15
+======================================================================
+
+of the earth as consistent as possible, though the angle will 
+change from season to season. The path that a satellite has 
+to travel to stay in a Sun-synchronous orbit is very narrow. 
+If a satellite is at a height of 100 kilometers, it must have an 
+orbital inclination of 96 degrees to maintain a Sun-
+synchronous orbit. Any deviation in height or inclination will 
+take the satellite out of a Sun-synchronous orbit.
+	z Highly Elliptical Orbit: Satellites in Highly Elliptical Orbit 
+have orbits that are close to the earth at one point of their 
+orbit, but are much farther away from the earth at other 
+times. Often highly-elliptical orbits are used to serve areas 
+to the far north or south of the earth, which cannot be 
+reached using geostationary satellites.
+	z Transfer Orbit: In orbital mechanics a transfer orbit is an 
+intermediate elliptical orbit that is used to move a satellite 
+or other object from one circular, or largely circular, orbit 
+to another.
+
+
+======================================================================
+CHUNK_ID: 49
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 15
+======================================================================
+
+to another.
+	z Polar Transfer Orbit (PTO): It is an orbit at an altitude of 
+about 100 km below the Polar or Low Earth Orbit. Remote 
+Sensing satellites are launched into this orbit first and then 
+using their own propulsion system the satellites lifts 
+themselves to the desired orbit.
+	z Geostationary Transfer Orbit (GTO): This orbit is located at 
+a height of about 200 km below the geostationary orbit. GSS 
+are first launched in GTO and then lifts itself using its own 
+propulsion system to the desired orbit. The geostationary 
+transfer orbit (GTO) is a high eccentric orbit which traverses 
+low Earth orbit (LEO) and geostationary orbit (GSO).
+Space Probes
+	z Sounding Rockets: Sounding rockets are one or two 
+stage solid propellant rockets used for probing the upper 
+atmospheric regions and for space research. They also 
+serve as easily affordable platforms to test or prove 
+prototypes of new components or subsystems intended 
+for use in launch vehicles and satellites. They carry
+
+
+======================================================================
+CHUNK_ID: 50
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 15
+======================================================================
+
+instruments into the upper atmosphere and into space 
+near the Earth. These instruments may measure the 
+temperature and pressure of the atmosphere as well as 
+radiation from space.
+	z Lunar Spacecraft: They explore the moon to prepare 
+the way for astronauts to land there.
+	z Interplanetary Probes: They explore the space between 
+the planets. However, they do not reach a specific body 
+in space. These may fly past the target planet, go into 
+orbit around it and land on it.
+Natural Satellite vs. Artificial Satellite
+	z Natural satellite is a celestial body smaller than a planet, 
+which revolves around a planet. They are also called 
+natural moon.
+	z Artificial satellite is a man-made device that orbits 
+around the earth or a planet and helps in meteorology, 
+communication, remote sensing, navigation, spying and 
+other applications.
+SATELLITE LAUNCHING
+A satellite is launched into space and into their orbit by 
+hitching a ride on a rocket or on the Space Shuttle, where
+
+
+======================================================================
+CHUNK_ID: 51
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 15
+======================================================================
+
+they are placed inside the cargo bay. The rocket that is used 
+to launch a satellite is called a “launch vehicle”, which is made 
+up of several different segments, or stages, with each stage 
+playing a different role.
+The first stage of the launch vehicle contains the fuel that 
+is needed to lift the satellite and launch vehicle off the ground 
+and into the sky. After all the fuel has been used up, the first 
+stage is no longer needed and breaks off and falls to the ground 
+in an uninhabited area.
+
+
+======================================================================
+CHUNK_ID: 52
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 16
+======================================================================
+
+139Drishti Publications
+Energy is one of the most important of all the world’s 
+resources. We need energy for light, to cook food, power 
+industrial machinery and fuel transport. Fortunately, the 
+natural environment provides us with a wide range of energy 
+resources. A distinction is made between primary energy and 
+secondary. Primary energy is fuels that provide energy without 
+undergoing any conversion process, for example coal, natural 
+gas and fuel wood. Secondary energy includes electricity and 
+petrol, which are made from the processing of primary fuels. 
+In today’s world, electricity is undoubtedly the leading source 
+of energy.
+However, the demand for energy across the world is 
+constantly rising. This increased demand is caused in part by 
+the increase in population, industrialization and economic 
+development. The amount of energy a country uses is widely 
+used to indicate or measure the level of development. As 
+a country develops, energy-consuming activities, such as
+
+
+======================================================================
+CHUNK_ID: 53
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 16
+======================================================================
+
+manufacturing, provision of services and transport increase in 
+scale and importance. This rising demand for energy results in 
+a country generating more of its own energy from its different 
+sources or relying on other countries with imports of fuels.
+During the early phase of the industrial revolution, the 
+demand for energy was primarily met by conventional sources 
+of energy like coal. But with the growing awareness about the 
+disadvantages of conventional resources, uncertainty about 
+supply and the rapid global warming, there was a need of 
+environment friendly sources and this was met with the tapping 
+of non-conventional means like solar, hydro, wind energy, etc.
+The Sun is the ultimate source of energy on earth. 
+However, the energy resources can be classified on the basis 
+of source and accessibility as:
+	z Non-renewable Sources of Energy
+	z Renewable Sources of Energy
+CONVENTIONAL/NON- 
+RENEWABLE SOURCES OF ENERGY
+Conventional sources of energy are the natural energy
+
+
+======================================================================
+CHUNK_ID: 54
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 16
+======================================================================
+
+resources which are regularly used for many years and are 
+accepted as fuel to produce heat, light, food and electricity.
+Conventional sources of energy are generally non-
+renewable sources of energy as the accumulation or creation 
+of conventional sources of energy takes years, once they are 
+exploited or consumed.
+Coal
+	z Coal is a combustible sedimentary rock formed from 
+ancient vegetation which has been captured for long 
+between other rock strata and transformed by the 
+combined effects of microbial action, pressure and heat 
+over a considerable time period. This process is commonly 
+called ‘coalification’.
+	z It is composed mostly of carbon (50–98%), hydrogen (3–
+13%) and oxygen, and smaller amounts of nitrogen, 
+sulphur and other elements. It also contains water and 
+particles of other inorganic matter. When burned, coal 
+releases energy as heat, which has a variety of uses.
+	z The quality of coal is determined on the basis of the ratio
+
+
+======================================================================
+CHUNK_ID: 55
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 16
+======================================================================
+
+of combustible organic matter to inorganic impurities found 
+in it. These inorganic impurities are non-combustible and 
+after the combustion of coal, leave an inert residue/ash. 
+Indian coal is considered to be of low quality because of its 
+high ash content. The low quality coal ejects higher volume 
+of particulate matter in the atmosphere on combustion.
+Coal Formation
+Coal Bed Methane (CBM)
+	z CBM is an unconventional form of natural gas found in coal 
+deposits or coal seams. It contains a few percentage of Carbon 
+dioxide and very little amount of propane and butane.
+	z It is also called sweet gas because it lacks Hydrogen sulphide.
+	z CBM is formed during the process of coalification, the 
+transformation of plant material into coal.
+	z CBM can be recovered from underground coal before, 
+during, or after mining operations.
+	z It can also be extracted from “unmineable” coal seams that 
+are relatively deep, thin or of poor or inconsistent quality.
+1010 Energy
+
+
+======================================================================
+CHUNK_ID: 56
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 17
+======================================================================
+
+140 Drishti Publications
+ 141Drishti Publications
+General Science and Science & Technology
+Energy
+CBM Policy in India
+Salient features of the CBM Policy adopted by the 
+Government of India in July 1997 are:
+	z No participating interest from the Government of India.
+	z Allotment of CBM Blocks through open international 
+competitive bidding.
+	z Exploration and Development of CBM under confessional 
+type of agreement through Model Contract.
+	z Seven years tax holiday from the date of commencement 
+of commercial production.
+	z Nominal commercial bonus of USD 0.3 million on 
+declaration of commercial assessment.
+	z Freedom to sell gas at market driven prices in the 
+domestic market. 35% income tax for Indian companies 
+and 48% for foreign companies.
+	z Provision of 100% cost recovery.
+	z Exemption on customs duty on imported equipment.
+	z Vertical and horizontal wells are used to develop  
+CBM resources.
+CBM in India: With India having the fourth largest proven
+
+
+======================================================================
+CHUNK_ID: 57
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 17
+======================================================================
+
+reserves of coal globally, according to the Directorate General 
+of Hydrocarbons, the country holds significant prospects for 
+exploration and production of CBM, which is also seen as a 
+clean energy source.
+Currently, Great Eastern Energy Corporation and Essar 
+Oil are the only two CBM-gas producing blocks in the country, 
+both from separate reserves in Raniganj, West Bengal. Reliance 
+Industries has reportedly begun test production from its two 
+blocks in Madhya Pradesh.
+Clean Coal Technology
+	z Gasification: Under the integrated coal gasification 
+combined cycle (IGCC), steam and hot pressurized air or 
+oxygen is combined with coal in a reaction to force carbon 
+molecules apart. The resulting ‘Synthesis gas’ (syngas) is 
+a mixture of carbon monoxide and hydrogen. The syngas 
+is burned in a gas turbine to generate electricity. IGCC 
+power plants have higher fuel efficiency and are 
+environmentally superior due to reduced emissions.
+
+
+======================================================================
+CHUNK_ID: 58
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 17
+======================================================================
+
+z Using Fly Ash for Beneficial Purpose:  The light weight 
+particles of fly ash are captured and stored in the exhaust 
+of the electrostatic precipitators of coal power plants. The 
+very fine fly ash cement like properties and is used as an 
+additive in cement. In India, the government has mandated 
+the production of fly ash bricks and advises their use in 
+construction as a means to combat the growing problem 
+of fly ash waste.
+	z Ultra Mega Super Critical Power Projects (UMPPs):  
+Development of Ultra Mega Power Projects (UMPPs) is 
+one step in the direction of achieving energy security for 
+India. In UMPPs water is directly heated from liquid to 
+superheated steam stage through the use of superheater 
+coils. The UMPPs have a higher energy efficiency of 45% 
+as compared to 35% in subcritical power plants. Each 
+UMPP will generate power of about 4000MW.
+	z Ultra-Supercritical Technology:  Ultra-supercritical 
+technology uses steam with very high temperatures, up
+
+
+======================================================================
+CHUNK_ID: 59
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 17
+======================================================================
+
+to 620°C, and pressure, up to 300 bar, resulting in a much 
+higher efficiency than conventional coal fired plants. A unit 
+burns much less coal, thereby generating less emission 
+per megawatt of power output.
+Petroleum
+Crude petroleum consists of hydrocarbons of liquid and 
+gaseous states varying in chemical composition, colour and 
+specific gravity. Crude petroleum occurs in sedimentary rocks 
+of the tertiary period. Most of the petroleum in India occurs 
+in anticlines and fault traps between non-porous and porous 
+rocks of tertiary age. Oil extracted is crude oil and contains 
+many impurities. It cannot be used directly and therefore 
+needs to be refined.
+It is often referred to as liquid gold because of its scarcity 
+and diversified uses. Petroleum or mineral oil is the next major 
+energy source in India after coal.
+New Exploration Technologies in Petroleum
+The technologies used in petroleum exploration are:
+	z Hydraulic Fracturing or Fracking:  In this technique,
+
+
+======================================================================
+CHUNK_ID: 60
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 17
+======================================================================
+
+chemical-laced water is injected to break up subterranean 
+rock formations to extract oil and natural gas.
+	z Thermal Intervention: It involves injection of steam into 
+wells to extract heavy oils or oil sands. The problem is, it 
+takes a lot of energy to generate that steam, so some oil 
+companies are turning to solar energy instead of natural 
+gas or other fossil fuels.
+Natural Gas
+Natural gas is a fossil energy source that formed deep 
+beneath the earth’s surface. Natural gas contains many different 
+compounds. The largest component of natural gas is methane, 
+a compound with one carbon atom and four hydrogen atoms 
+(CH4). Natural gas also contains smaller amounts of natural gas 
+liquids (NGL; which are also hydrocarbon gas liquids), and non-
+hydrocarbon gases, such as carbon dioxide and water vapor.
+Advantages of Natural gas
+	z Environment friendly fuel because of low carbon dioxide 
+emissions as compared to coal or oil and far fewer 
+pollutants than other hydrocarbon fuels.
+
+
+======================================================================
+CHUNK_ID: 61
+SOURCE: ./data/pdfs\pdf2.pdf
+PAGE: 17
+======================================================================
+
+pollutants than other hydrocarbon fuels.
+	z It burns completely and is therefore a more efficient fuel
+	z No adulteration and pilferage is possible in case of 
+Natural Gas.
+

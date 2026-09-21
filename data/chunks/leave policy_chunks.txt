@@ -1,0 +1,248 @@
+
+======================================================================
+CHUNK_ID: 1
+SOURCE: ./data/pdfs\leave policy.pdf
+PAGE: 0
+======================================================================
+
+User of the document is responsible to ensure use of current version of the 
+document.This document is forrestricted circulation. No part of this documentshall be 
+reproduced, stored in retrievalsystem, or transmitted in any form or by any means – 
+recording, photocopying, electronic and mechanical without prior permission of 
+InterraIT. 
+Leave PolicyHRLEC04, Ver 7.0 InterraIT Internal Page 1 of 5TABLE OF CONTENTS1.0 
+OBJECTIVE..................................................................................................................
+.....................................................22.0 
+SCOPE........................................................................................................................
+.........................................................23.0 STATEMENT OF 
+POLICY ........................................................................................................................
+....................23.1 TYPES OF LEAVE
+
+
+======================================================================
+CHUNK_ID: 2
+SOURCE: ./data/pdfs\leave policy.pdf
+PAGE: 0
+======================================================================
+
+....................23.1 TYPES OF LEAVE 
+...................................................................................................................................
+.....................23.2 LEAVE 
+BENEFITS....................................................................................................................
+....................................23.2.1 FIXED 
+HOLIDAYS....................................................................................................................
+.............................23.2.2 PRIVILEGED 
+LEAVE..........................................................................................................................
+..................33.2.3 BORROWED 
+LEAVE..........................................................................................................................
+...................33.2.4 CASUAL LEAVE/SICK
+
+
+======================================================================
+CHUNK_ID: 3
+SOURCE: ./data/pdfs\leave policy.pdf
+PAGE: 0
+======================================================================
+
+...................33.2.4 CASUAL LEAVE/SICK 
+LEAVE..........................................................................................................................
+..33.2.5 MATERNITY 
+LEAVE..........................................................................................................................
+...................43.2.6 PATERNITY 
+LEAVE..........................................................................................................................
+....................43.2.7 CANCELLATION OF APPROVED 
+LEAVE........................................................................................................43.3 LEAVE 
+ENCASHMENT.............................................................................................................
+..................................44.0 LEAVE WITHOUT PAY 
+(LWP)..........................................................................................................................
+
+
+======================================================================
+CHUNK_ID: 4
+SOURCE: ./data/pdfs\leave policy.pdf
+PAGE: 0
+======================================================================
+
+.........45.0 LEAVE DURING NOTICE 
+PERIOD.......................................................................................................................
+....56.0 
+REFERENCE................................................................................................................
+.....................................................5 
+Leave PolicyHRLEC04, Ver 7.0 Interra IT Internal Page 2 of 51.0 ObjectiveThe objective of 
+this policy is to establish clear guidelines for leave entitlements, ensuring that 
+employees have the necessary time away from work for rest, recuperation, and
+
+
+======================================================================
+CHUNK_ID: 5
+SOURCE: ./data/pdfs\leave policy.pdf
+PAGE: 1
+======================================================================
+
+personal obligations. This policy aims to promote a healthy work-life balance while 
+ensuring seamless operational continuity and strict adherence to the applicable labor 
+laws2.0 Scope• This policy applies to all full-time employees of InterraIT, a Ferfier group 
+company, across India.• Employees are expected to manage their time off judiciously, 
+providing sufficient notice to their First Level Manager to mitigate any impact on project 
+timelines or team productivity.• Department heads and managers hold the primary 
+responsibility for the fair implementation of this policy and for ensuring operational 
+stability during team absences.• Human Resources (HR) department shall serve as the 
+official Policy Custodian. HR will be responsible for the periodic reviews, interpretation, 
+and maintenance of this policy to ensure ongoing compliance with the applicable labor 
+laws and other statutory requirements. • Any exceptions or grievances regarding leave
+
+
+======================================================================
+CHUNK_ID: 6
+SOURCE: ./data/pdfs\leave policy.pdf
+PAGE: 1
+======================================================================
+
+policy shall be mediated by HR to ensure equitable treatment across the 
+organization.3.0 Statement of PolicyInterrs IT values the importance of the time off for 
+its most valued assets - its people. This Leaves Policy will provide a structured approach 
+to Leave Entitlements, the process to be followed and adherence to the required 
+compliances.3.1 Types of LeaveThe following types of leave are available:• Fixed 
+Holidays• Privileged Leave (PL)• Borrowed Leave• Casual Leave (CL)/ Sick Leave (SL)• 
+Maternity Leave• Paternity Leave3.2 Leave Benefits3.2.1 Fixed Holidays• Towards the 
+conclusion of each calendar year, the HR department will officially publish the schedule 
+of 10 fixed holidays for the upcoming calendar year. All full-time employees are entitled 
+to observe these designated holidays as per the published list, allowing for proactive 
+personal planning and ensuring alignment with the organization’s/team’s annual 
+operational calendar.
+
+
+======================================================================
+CHUNK_ID: 7
+SOURCE: ./data/pdfs\leave policy.pdf
+PAGE: 1
+======================================================================
+
+operational calendar. 
+Leave PolicyHRLEC04, Ver 7.0 Interra IT Internal Page 3 of 53.2.2 Privileged Leave• 
+Employees will be entitled to 12 days Privileged Leaves (PL) during each calendar year 
+which will be credited on monthly basis.• PL will be credited to a new joiner post 
+confirmation on monthly basis with the credit of the last six months.(Eg: DOJ – 1st Jan 
+2026, Confirmation Date – 30th June 2026, Entitlement of PL from Jan-Jun 2026 will be 6 
+andCredit of PL on 1st July 2026 – 6+1.0 = 7.0 PL)• All employes joining on or before 15th 
+of the month will be granted full 1 PL and anyone joining post 15thwill be granted 0.5 
+PL.• Any employee leaving on or before 15th of the month will be granted 0.5 PL and will 
+be granted full 1.0 PL in case the date of exit is post 15th of the month. • All PL must be 
+planned and applied in advance seeking First Level Manager’s approval.• PL can be 
+availed in multiples of half day as well.• PL can accumulate throughout the calendar
+
+
+======================================================================
+CHUNK_ID: 8
+SOURCE: ./data/pdfs\leave policy.pdf
+PAGE: 1
+======================================================================
+
+year and any PL balance in excess of 30 days as on Dec 31 st/last working day of the 
+calendar year will be encashed in the next year January Payroll.• Employees may borrow 
+Privileged Leaves up to a maximum of 5 days beyond their entitled leave balance during 
+the calendar year. The borrowed leaves can also be availed in split parts. Any leaves 
+availed beyond this limit will be treated as Leave Without Pay (LWP).• Trainees are not 
+eligible to PL.3.2.3 Borrowed Leave• Borrowed Privileged Leave (from the future PL
+
+
+======================================================================
+CHUNK_ID: 9
+SOURCE: ./data/pdfs\leave policy.pdf
+PAGE: 2
+======================================================================
+
+balance) may be availed for genuine and significant personal reasons such as marriage, 
+important family celebrations, medical emergencies, demise in the family, or other 
+important personal events, subject to First Level Manager’s approval.• In order to avail 
+the approved borrowed leaves, the employee must share the FLM approval with HR for 
+the processing on HRMS from backend.• Borrowed leave facility is not applicable to 
+employees serving their notice period.3.2.4 Casual Leave/Sick Leave• All employees 
+are entitled to 15 days of CasualLeaves (CL)/Sick Leaves (SL) during each calendar 
+year.• CL/SL will be credited to an employee on monthly basis• CL can be availed in 
+multiples of half day, up to a maximum of three days at a time• CL cannot be carried 
+forward to the next year norit can be encashed and will lapse on the last working day of 
+calendar year.• Medical certificate will be required to avail CL/SL for more than 2 days
+
+
+======================================================================
+CHUNK_ID: 10
+SOURCE: ./data/pdfs\leave policy.pdf
+PAGE: 2
+======================================================================
+
+on ground of medical health conditions.• Trainees are entitled to only one CL for each 
+completed month.• During the probation period, an employee will be credited with 1.25 
+CL/SL at the start of the month and the same can be availed too unlike the PLs , which 
+will get accumulated and credited post confirmation 
+Leave PolicyHRLEC04, Ver 7.0 Interra IT Internal Page 4 of 53.2.5 Maternity Leave• All 
+female employees who have worked for 80 days in the company in the preceding 12 
+months, are entitled to maternity leave for a period of 26 weeks (182 days) i.e. 8 weeks 
+prior to the expected date of delivery and 18 weeks following the delivery day, in 
+accordance with the provisions of the Maternity Benefit Act, 1961 as amended vide 
+Gazette Notification No. 934 dated 3 April 2017 only for her first 2 kids. Intervening 
+holidays will be included in the calculation of 182 calendar days. If a woman employee
+
+
+======================================================================
+CHUNK_ID: 11
+SOURCE: ./data/pdfs\leave policy.pdf
+PAGE: 2
+======================================================================
+
+does not avail eight weeks leave preceding the expected date of her delivery, she can 
+avail that leave followed by her delivery, provided she does not exceed 26 weeks. In 
+case of unfortunate demise of female employees, the benefit payable is only up to the 
+date of her death.• All female employees who have worked for 80 days in the company 
+in the preceding 12 months who are having two or more surviving children, the duration 
+of paid maternity leave shall be 12 weeks only, of which six weeks may be availed prior 
+to expected delivery date and six weeks thereafter. If a woman employee does not avail 
+six weeks leave preceding the expected date of her delivery, she can avail that leave 
+followed by her delivery, provided she does not exceed 12 weeks.• Maternity leave of 12 
+weeks to be available to mothers adopting a child below the age of three months from 
+the date of adoption as well as to the “Commissioning mothers” . The commissioning
+
+
+======================================================================
+CHUNK_ID: 12
+SOURCE: ./data/pdfs\leave policy.pdf
+PAGE: 2
+======================================================================
+
+mother has been defined as biological mother who uses her egg to create an embryo 
+planted in any other women.• All female employees are entitled for six weeks of paid 
+leaves in case of miscarriage.• Trainees are not entitled for maternity leave.• All salary & 
+other benefits will be paid in accordance with Maternity Benefit Act. 
+(https://labour.gov.in/sites/default/files/the_maternity_benefit_act_1961_0.pdf) 
+(Maternity BenefitAmendment Act,2017 (labour.gov.in)3.2.6 Paternity Leave• All full 
+time Male employees who have completed minimum of 80 days of continu ousservice
+
+
+======================================================================
+CHUNK_ID: 13
+SOURCE: ./data/pdfs\leave policy.pdf
+PAGE: 3
+======================================================================
+
+with InterraIT in the 12 preceding months from the date of leaves shall be entitled for 
+paternity leave of 3 days• Male employees can avail this benefit for up to two 
+children3.2.7 Cancellation of Approved Leave• Leave cancellation should be done 
+within 15 days of approval. Fifteen days start from the date of approval.3.3 Leave 
+Encashment• Any PL in excess of 30 days will be encashed at the end of every calendar 
+year as per last basic salary drawn.• At the time of separation from the company, all 
+accrued (Privileged Leaves only) tillthe lastworking day will be encashed to employees 
+as per last basic salary drawn.• Trainees are not entitled to leave encashment.4.0 Leave 
+without pay (LWP)• An employee cannot ask LWP as a matter of right. Going on leave 
+without the First Level Manager’sapproval is a breach of discipline and disciplinary 
+action, including termination of service can take place on account of this.• The
+
+
+======================================================================
+CHUNK_ID: 14
+SOURCE: ./data/pdfs\leave policy.pdf
+PAGE: 3
+======================================================================
+
+employee will be considered on ‘leave without pay’ if the leaves are not approved by the 
+FLM onHRMS portal within seven days from the date of leave applied.
+

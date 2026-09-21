@@ -1,0 +1,26 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+.env.*
+
+# LangGraph local files
+.langgraph_api/
+
+# Local databases
+*.db
+
+# Vector database
+vector_db/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

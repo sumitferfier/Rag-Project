@@ -1,0 +1,992 @@
+
+======================================================================
+CHUNK_ID: 1
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 0
+======================================================================
+
+ Corresponding author: Najmaldin Ezaldin Hassan 
+Copyright © 2024 Author(s) retain the copyright of this article. This article is published under the terms of the Creative Commons Attribution Liscense 4.0. 
+Global warming: Causes, impacts and urgent strategies for a sustainable future: A 
+review 
+Najmaldin Ezaldin Hassan * 
+Department of Civil and Environment, College of Engineering, University of Zakho, Kurdistan region, Iraq. 
+GSC Advanced Research and Reviews, 2024, 20(03), 073–087 
+Publication history: Received on 06 August 2024; revised on 11 September 2024; accepted on 14 September 2024 
+Article DOI: https://doi.org/10.30574/gscarr.2024.20.3.0338 
+Abstract 
+Global warming is defined as a rise in Earth's average temperature. As the Earth gets warmer, disasters such as droughts, 
+hurricanes, and floods are becoming increasingly common. Most scientists, engineers, and activists express deep
+
+
+======================================================================
+CHUNK_ID: 2
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 0
+======================================================================
+
+concern about changes in the planet's overall climate. The average air temperature above the surface of the Earth has 
+risen by just below 1 degree Celsius, or 1.3 degrees Fahrenheit, over the past 100 years. 
+Deforestation exacerbates the severity of global warming. The ocean, which holds about 50 times more carbon than the 
+atmosphere, is an enormous carbon sink. However, the seas are no longer able to store carbon as effectively as they 
+have in the past. Burning fossil fuels such as natural gas, oil, coal, and gasoline increases atmospheric carbon dioxide 
+levels, and carbon dioxide is a major contributor to the greenhouse effect and global warming. Climate change will 
+increase the number of people who suffer from heatwaves, floods, hurricanes, and droughts, leading to higher rates of 
+death, illness, and injury. 
+The threat of global warming continues to cause severe damage to the Earth's environment. Many people still do not
+
+
+======================================================================
+CHUNK_ID: 3
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 0
+======================================================================
+
+fully understand the implications of global warming or consider it a significant problem for the future. However, global 
+warming is already happening, and some of its devastating consequences are already being felt. It significantly impacts 
+biodiversity and disrupts ecological balance. Due to the dangerous effects of global warming, many strategies need to 
+be established. The report discusses global warming, outlines its causes and risks, and proposes solutions to this urgent 
+issue. Above all, it is crucial to seriously consider alternative energy sources (biomass, wind, hydro, geothermal, and 
+solar). One of the key strategies to counter the ever-increasing global warming is the identification and use of renewable 
+energy sources. 
+Keywords:  Global warming; Environmental impact; Mitigation  strategies; Public awareness; Alternative and 
+Renewable energy sources 
+1. Introduction
+1.1. What is Global Warming?
+
+
+======================================================================
+CHUNK_ID: 4
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 0
+======================================================================
+
+1. Introduction
+1.1. What is Global Warming? 
+Global warming is a gradual increase in Earth's average atmospheric temperature attributed to the greenhouse effect, 
+which is induced by higher levels of methane, carbon dioxide, chlorofluorocarbons, and other contaminants [1]. Global 
+warming is one of the 21st century's most contentious scientific concerns, threatening the very structure of global 
+society. The dilemma is that global warming is not only a scientific issue but also involves economics, geopolitics, local 
+politics, psychology, and individual lifestyles. Scientists have discovered that several greenhouse gases are responsible 
+for global warming, and humans produce these gases in various ways. Many of these gases come from the combustion
+
+
+======================================================================
+CHUNK_ID: 5
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 1
+======================================================================
+
+GSC Advanced Research and Reviews, 2024, 20(03), 073–087 
+74 
+of fossil fuels in vehicles, factories, and electricity pro duction. Carbon dioxide (CO 2) is the most prominent greenhouse 
+gas [2]. Other contributors include methane emitted from landfills and agriculture (especially from the digestive 
+systems of grazing animals), nitrous oxide from fertilizers, gases used in refr igeration and industrial processes, and 
+deforestation, which reduces the capacity of forests to store CO 2 and other gases. Different greenhouse gases have 
+varying abilities to absorb heat. Some are more effective at trapping heat than CO 2. For example, a m ethane molecule 
+traps over twenty times more heat than a CO2 molecule, while nitrous oxide is 300 times more effective than CO2. Certain 
+gases, such as chlorofluorocarbons (which have been banned in many parts of the world because they also damage the
+
+
+======================================================================
+CHUNK_ID: 6
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 1
+======================================================================
+
+ozone layer), have a heat-trapping potential a thousand times greater than CO2. However, because their concentrations 
+are much lower than CO2, these gases contribute less overall heat to the atmosphere than CO2 [2]. There is clear evidence 
+that, over the past half million years, atmospheric carbon dioxide levels have reached their highest levels ever, possibly 
+even longer. Scientists believe this contributes to the Earth warming more quickly than at any other time in history. 
+According to the Intergovernmental Panel on Climate Change (IPCC), there is evidence of a 0.6°C rise in global 
+temperatures and a rise in sea levels over the 20th century. The IPCC projects that global temperatures could rise 
+between 1.4°C and 5.8°C, and by the year 2100, sea levels could i ncrease by 20 cm to 88 cm. Consequently, weather 
+patterns will become less stable, and extreme climatic events such as hurricanes, floods, and droughts will become more
+
+
+======================================================================
+CHUNK_ID: 7
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 1
+======================================================================
+
+frequent. This could lead to potentially devastating effects on human society, includin g drastic changes in health, food 
+security, infrastructure, water resources, coastal regions, and biodiversity. If global warming continues unabated, it will 
+disproportionately affect the world’s poorest people [1, 3]. 
+A general overview of the global warming process is illustrated in Fig. 1. The greenhouse effect is a mechanism through 
+which greenhouse gases in the atmosphere absorb and re-radiate infrared energy from the Earth. This process transfers 
+energy to the lower atmosphere and the ground, resultin g in a temperature increase that would be higher than if 
+warming were only due to direct solar radiation. 
+ 
+Figure 1 Global Warming Mechanism 
+1.2. Climate change 
+Climate change refers to long-term changes in Earth's climate, including variations in average temperature, rainfall, and
+
+
+======================================================================
+CHUNK_ID: 8
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 1
+======================================================================
+
+precipitation on both natural and regional scales. It is influenced by gradual changes in factors such as the sea, the moon, 
+Earth's orbit around the sun, and the sun's energy production. Climate change is governed by Earth's ene rgy balance 
+and atmospheric conditions. It is caused by various factors, including biotic processes, changes in solar radiation 
+received by Earth, volcanic eruptions, and plate tectonics, as illustrated in Figure 2.
+
+
+======================================================================
+CHUNK_ID: 9
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 2
+======================================================================
+
+GSC Advanced Research and Reviews, 2024, 20(03), 073–087 
+75 
+ 
+Figure 2 Climate change 
+People often confuse global warming with climate change. While they are related and similar, they are not exactly the 
+same. Global warming specifically refers to the recent increase in Earth's average temperature. Climate change, on the 
+other hand, encompasses a broader range of changes, including variations in wind patterns, rainfall, seasonal durations, 
+and the intensity and frequency of extreme weather events such as floods and droughts.  
+Most scientists believe that climate change in the near future will be primarily driven by human -induced greenhouse 
+gas emissions. Some global warming skeptics argue that while global warming may have a minor impact, natural climate 
+change is occurring on human timescales, and we should be prepared to adapt to it. Climate change can ma nifest in
+
+
+======================================================================
+CHUNK_ID: 10
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 2
+======================================================================
+
+several ways, including increases in regional and global temperatures, shifts in rainfall patterns, expansion and 
+contraction of ice sheets, and fluctuations in sea levels. These regional and global climate changes are responses to both 
+external and internal forcing processes. For example, changes in atmospheric carbon dioxide content can modulate the 
+greenhouse effect, an internal forcing mechanism. In contrast, long -term variations in Earth's orbit around the sun are 
+an example of an external forcing mechanism, affecting the regional distribution of solar radiation to Earth [1].  
+2. Causes of global warming 
+Greenhouse gases are the primary cause of global warming. These gases include carbon dioxide, nitrous oxides, 
+methane, and certain compounds containing chlorine and bromine. The accumulation of these gases in the atmosphere 
+disrupts radiative equilibrium, leading to the heating of Earth's surface and lower atmosphere. Greenhouse gases absorb
+
+
+======================================================================
+CHUNK_ID: 11
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 2
+======================================================================
+
+some of Earth's incoming radiation and re-radiate it back to the surface [2]. 
+Another significant cause of global warming is the depletion of the ozone layer, which is partly due to gases containing 
+chlorine. These gases dissociate chlorine atoms when exposed to ultraviolet light, which then catalyze the des truction 
+of ozone. In addition, aerosols contribute to global warming in two ways. First, they scatter and absorb solar and 
+infrared radiation. Second, they can alter the microphysical and chemical properties of clouds, affecting their lifetime 
+and duration. While scattering of solar radiation by aerosols can have a cooling effect on the planet, the absorption of 
+solar radiation by aerosols actively warms the atmosphere, preventing Earth's surface from absorbing sunlight.  
+Human activities contribute to aero sol levels in the atmosphere in various ways. For example, dust is a by -product of
+
+
+======================================================================
+CHUNK_ID: 12
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 2
+======================================================================
+
+agricultural activities. The burning of biomass produces carbon droplets and soot particles. Industrial processes 
+generate a wide range of aerosols depending on the material s being processed or burned. Additionally, exhaust
+
+
+======================================================================
+CHUNK_ID: 13
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 3
+======================================================================
+
+GSC Advanced Research and Reviews, 2024, 20(03), 073–087 
+76 
+emissions from various forms of transportation contain a mixture of contaminants that are either present as aerosols 
+or are converted into aerosols through chemical reactions in the atmosphere [4].  
+Causes of global warming divided in to natural and man-made 
+2.1. Natural causes 
+2.1.1. Solar activity 
+It is widely acknowledged that significant fluctuations in solar radiation and events such as solar flares or sunspots may 
+influence global temperatures. For example, a weak er sun is believed to have contributed to the "Little Ice Age" in the 
+seventeenth century, during which the average global temperature was about 1 degree Celsius cooler than today. Solar 
+activity, including the 11 -year sunspot cycle, varies in phases. Thes e variations in solar behavior can shift the Earth's 
+magnetic field. This magnetic field plays a crucial role in deflecting cosmic rays (charged particles from distant stars)
+
+
+======================================================================
+CHUNK_ID: 14
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 3
+======================================================================
+
+away from Earth. When the sun's activity diminishes and its magnetic field weaken s, more cosmic rays penetrate the 
+solar system and reach Earth's lower atmosphere. These cosmic rays ionize small particles in the air, which then 
+aggregate into water droplets and form clouds. Low clouds, when sufficiently thick, can effectively reflect t he sun's 
+energy back into space. An increase in Earth's cloud cover can lead to a decrease in global temperatures. Additionally, 
+variations in solar irradiance, such as changes in ultraviolet and visible wavelengths, may be correlated with changes in 
+ambient temperatures. The exact relationship between solar radiation and global warming, and the relative importance 
+of solar radiation compared to greenhouse gases in driving global warming, remains a subject of ongoing research and 
+debate. Climate models are employed to study the sun's role in recent climate changes [5].  
+2.1.2. Natural deforestation
+
+
+======================================================================
+CHUNK_ID: 15
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 3
+======================================================================
+
+2.1.2. Natural deforestation 
+Natural forest fires can impact global temperatures, particularly large -scale fires that occur over extended periods. 
+When vegetation burns, accumulated carbon is release d into the atmosphere, increasing the concentration of 
+greenhouse gases such as carbon dioxide. These greenhouse gases absorb solar energy, ultimately contributing to 
+atmospheric warming. Additionally, forest fires produce soot and harmful gases, which contribute to air pollution [5, 6]. 
+2.1.3. Permafrost melting 
+Permafrost, or cryotic soil, is soil that has been at or below the freezing point of 0°C (32°F) for two or more years. It is 
+primarily found in high latitudes, particularly in and around the Arctic and An tarctic regions. However, significant 
+amounts of carbon can also be deposited at high altitudes in lower latitudes. Surface ice is not always present, especially
+
+
+======================================================================
+CHUNK_ID: 16
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 3
+======================================================================
+
+in areas with non-porous bedrock, but when it does occur, it may exceed the hydraulic saturation capacity of the surface 
+material. Permafrost accounts for 0.022% of total Earth ice [1] and covers 24% of the Northern Hemisphere's exposed 
+land. 
+Permafrost is at risk of melting due to global warming, which can release trapped carbon in the form of car bon dioxide 
+and methane, both potent greenhouse gases. This melting can lead to structural issues such as flooding, lake depletion, 
+landslides, and subsidence. It can also alter the composition of plant species at high latitudes. According to one group of 
+scientists, a global temperature increase of 1.5°C (2.7°F) above current levels could trigger the thawing of permafrost 
+in Siberia [6]. 
+2.1.4. Eruption of the volcano 
+As volcanoes erupt, they release a mixture of gases and particles into the air, including water vapor (H₂O), carbon
+
+
+======================================================================
+CHUNK_ID: 17
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 3
+======================================================================
+
+dioxide (CO₂), sulfur dioxide (SO₂) from high -temperature volcanic gases, and hydrogen sulfide (H₂S) from low -
+temperature volcanic gases. Other gases emitted can include nitrogen, hydrogen, methane, argon, helium, neon, and 
+carbon monoxide. 
+Airborne aerosols can influence the climate in two significant ways. First, they can distribute and absorb solar and 
+infrared radiation. Second, they can alter the microphysical and chemical properties of clouds, potentially affecting their 
+lifespan and extent. The dispersion of solar radiation by aerosols tends to cool the planet, while the absorption of solar 
+radiation by aerosols warms the atmosphere, preventing the Earth's surface from absorbing sunlight. Additionally, 
+greenhouse gases and volcanic carbon dioxide can contribute to global warming [7].
+
+
+======================================================================
+CHUNK_ID: 18
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 4
+======================================================================
+
+GSC Advanced Research and Reviews, 2024, 20(03), 073–087 
+77 
+ 
+Figure 3 Volcanic Eruption 
+2.1.5. Animal methane emissions 
+As part of their normal digestive processes, domestic animals such as cows, buffalo, pigs, goats, and camels produce 
+large amounts of methane (CH₄).  Additionally, methane is generated when animal manure is stored or handled in 
+lagoons or holding tanks. These emissions are considered human-related because humans raise these animals for food. 
+Agriculture is the primary source of methane pollution worldwide. 
+2.2. Causes Manmade 
+2.2.1. The burning of fossil fuels 
+Fossil fuels are hydrocarbons formed from the remains of dead plants and animals, including fuel oil, coal, and natural 
+gas. The term "fossil fuel" also includes natural resources containing hydrocarbons that are not derived from biological 
+sources. The most significant driver of global warming, according to the EPA, is carbon dioxide. In the United States,
+
+
+======================================================================
+CHUNK_ID: 19
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 4
+======================================================================
+
+over 90 percent of greenhouse gas emissions result from fossil fuel combustion [8].  
+ 
+Figure 4 Burning fossil fuels 
+2.2.2. Manmade Deforestation 
+Deforestation caused by human activity is also a significant contributor to global warming [9]. As the number of plants 
+on Earth decreases, the amount of carbon dioxide in the atmosphere increases. Additionally, decaying plant matter 
+releases accumulated carbon, further contributing to atmospheric carbon levels, especially during the clearing of forests 
+or grasslands for construction. Tropical deforestation accounts for about 20% of global greenhouse gas emissions [10].  
+2.2.3. Uses of fertilizer 
+During the production of nitrogen fertilizer, greenhouse gases such as carbon dioxide, methane, and nitrous oxide are 
+released. Each time humans apply fertilizer to the soil, nitrogen oxide escapes into the air. After carbon dioxide and
+
+
+======================================================================
+CHUNK_ID: 20
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 5
+======================================================================
+
+GSC Advanced Research and Reviews, 2024, 20(03), 073–087 
+78 
+methane, nitrous oxide has become the third most important greenhouse gas [11], making fertilizer use one of the major 
+contributors to global warming in agriculture [12]. 
+2.2.4. Mining 
+Coal mining can account for eight percent of all methane emissions. Oil and coal  production allow methane to escape 
+into the atmosphere. Stored gases are released into the atmosphere whenever the soil is disturbed [13].  
+3. Greenhouse gases (GHG) 
+A greenhouse gas (GHG) is an airborne gas that absorbs and emits radiation within the thermal infrared spectrum. This 
+process is the root cause of the greenhouse effect. Water vapor, carbon dioxide, methane, nitrous oxide, ozone, and CFCs 
+are the primary greenhouse gases in Earth's atmosphere. Without greenhouse gases, Earth's surface would be abo ut 
+33°C cooler, roughly 59°F below the current average temperature of 14°C (57°F). Greenhouse gases are those capable
+
+
+======================================================================
+CHUNK_ID: 21
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 5
+======================================================================
+
+of absorbing and releasing infrared radiation [14], but not radiation within or near the visible spectrum.  
+The most concentrated greenhouse gases in Earth's atmosphere are: 
+3.1. Chlorofluorocarbons (CFCs) 
+Chlorofluorocarbons are industrial chemical compounds used in various applications, but they are now primarily 
+restricted by international agreements due to their role in degrading the ozone layer when processed and released into 
+the atmosphere. They are also greenhouse gases [15]. 
+3.2. Carbon Dioxide (CO₂) 
+Carbon Dioxide is a small but very significant component of the atmosphere. Carbon dioxide is released through natural 
+processes such as respir ation and volcanic eruptions, as well as human activities including deforestation, land use 
+changes, and fossil fuel burning [16]. Since the Industrial Revolution, human activities have increased atmospheric CO₂ 
+concentrations by about 25%. CO₂ is a critical long-lived greenhouse gas contributing to climate change.
+
+
+======================================================================
+CHUNK_ID: 22
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 5
+======================================================================
+
+3.3. Water Vapor (H₂O) 
+Water Vapor is the most abundant greenhouse gas and plays a crucial role in the climate system. As the Earth's 
+atmosphere warms, water vapor increases, leading to more cloud formation and precipitation. These processes are 
+essential feedback mechanisms in the greenhouse effect. 
+3.4. Nitrous Oxide (N₂O) 
+Nitrous Oxide is a potent greenhouse gas produced by soil cultivation activities, particularly through the use of 
+industrial and organic fertilizers, the combustion of fossil fuels, nitric acid production, and biomass burning.  
+3.5. Methane (CH₄) 
+Methane is a colorless, odorless gas found naturally and produced through certain human activities. It is the simplest 
+member of the hydrocarbon paraffin series and is one of the most potent greenhouse gases. 
+3.6. Ozone (O₃) 
+Ozone is formed in the Earth's atmosphere through ultraviolet (UV) light and electrical discharges from dioxygen. It is
+
+
+======================================================================
+CHUNK_ID: 23
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 5
+======================================================================
+
+present in low concentrations in the troposphere but reaches its highest concentration in the stratospheric ozone layer, 
+where it absorbs most of the Sun's ultraviolet radiation.
+
+
+======================================================================
+CHUNK_ID: 24
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 6
+======================================================================
+
+GSC Advanced Research and Reviews, 2024, 20(03), 073–087 
+79 
+ 
+Figure 5 Types of greenhouse effects 
+4. The Contribution of gases  
+The contribution of gases to the greenhouse effect is influenced by their  characteristics, abundance, and any indirect 
+effects they may cause. For example, the direct radiative effect of methane is about 20 times greater than that of the 
+same mass of carbon dioxide over a 100 -year time frame. However, methane is present in much  smaller quantities, so 
+its overall direct radiative effect is lower, partly due to its shorter atmospheric lifespan. Methane also has a significant 
+indirect radiative effect beyond its direct influence, as it contributes to the formation of ozone. Some st udies suggest 
+that due to this impact, the contribution of methane to climate change is at least double previous estimates [17].  
+Table 1 The most important gases, measured by their direct contribution to the greenhouse effect  
+Compound Contribution (%) Formula
+
+
+======================================================================
+CHUNK_ID: 25
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 6
+======================================================================
+
+Compound Contribution (%) Formula  
+Water vapor and cloud 36-72% H2o 
+Carbon dioxide 9–26% CO2 
+Chlorofluorocarbons 7-17% CFCs 
+Methane 4–9% CH4 
+Nitrous oxide 4-8% N2O 
+Ozone 3–7% O3 
+Certain greenhouse gases include arsenic hexafluoride, hydrofluorocarbons, perfluorocarbons, and the major 
+greenhouse gases mentioned above. Many greenhouse gases are not consistently monitored. For example, nitrogen 
+trifluoride has a high potential for global warming but is found only in trace amounts [18].  
+5. Global warming effects 
+ Physical impacts 
+ Biological Impacts 
+ Social effects 
+5.1. Physical Impacts: This can be divided into 
+5.1.1. Extreme weather events 
+Extreme weather is a phenomenon associated with global warming. According to Climate Central, extreme weather 
+events such as heat waves, droughts, blizzards, and rainstorms are expected to occur more frequently and with greater
+
+
+======================================================================
+CHUNK_ID: 26
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 6
+======================================================================
+
+intensity due to global warming. Climate models predict that global warming will lead to significant changes in climate
+
+
+======================================================================
+CHUNK_ID: 27
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 7
+======================================================================
+
+GSC Advanced Research and Reviews, 2024, 20(03), 073–087 
+80 
+patterns worldwide, including adjustments in wind patterns, annual rainfall, and fluctuations in seasonal temperatures. 
+Since ambient greenhouse gas levels are like ly to remain high for many years, these changes are anticipated to persist 
+for decades or longer [8, 19]. 
+5.1.2. Ice melt 
+The decline of Arctic Sea ice is one of the most dramatic effects of global warming. Scientists recorded the smallest 
+amount of Arctic ice co ver ever in 2012. Some analysts predict that the Arctic Ocean could become ice -free during the 
+summer months within a few years [20]. The thawing of various types of Arctic permafrost this century could release 
+large amounts of carbon into the atmosphere. Climate models suggest that temperatures could rise up to 1,450 km (900 
+mi) inland during periods of rapid sea -ice loss, increasing the rate of terrestrial permafrost thaw and potentially 
+affecting carbon and methane release [21].
+
+
+======================================================================
+CHUNK_ID: 28
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 7
+======================================================================
+
+affecting carbon and methane release [21]. 
+ 
+Figure 6 Symbolic Representation of How Earth's Melting Contributes to Global Warming  
+5.1.3. Sea levels and ocean acidification 
+Several factors contribute to rising sea levels, including seawater thermal expansion, the melting of glaciers and ice 
+sheets, and changes in groundwater  storage due to human activities. The rise in sea level is a key indicator of global 
+warming [22]. According to the EPA, global sea levels have risen by about 8 inches since 1870 [10]. Sea -level rise is 
+expected to continue for centuries. In 2013, the Inte rgovernmental Panel on Climate Change (IPCC) projected that sea 
+levels could rise by 26 cm to 82 cm during the 21st century. Additionally, ocean acidification is another consequence of 
+global warming. As CO₂ levels increase, some of this gas is absorbed by  the oceans, leading to higher seawater acidity.
+
+
+======================================================================
+CHUNK_ID: 29
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 7
+======================================================================
+
+According to the EPA, ocean acidity has increased by about 25 percent since the early 1700s, and if current trends 
+continue, coral reefs in areas where they are now common may become increasingly rare [23].  
+5.2. Biological Impacts 
+5.2.1. Impact on plants 
+Global warming is predicted to have significant and widespread effects on Earth's biodiversity. Due to rising 
+temperatures, many plant species are already shifting their ranges northward or to higher altitudes. Temperatu re 
+increases can push many physiological processes in plants, such as photosynthesis, to their upper limits. Extreme 
+temperatures can be harmful when they exceed a plant's physiological tolerance. Increased atmospheric CO₂ 
+concentration also affects photos ynthesis, resulting in improved plant water use efficiency but decreased 
+photosynthetic ability and growth. This can lead to plants becoming less nutritious [24]. Climate change is expected to
+
+
+======================================================================
+CHUNK_ID: 30
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 7
+======================================================================
+
+remain a major driver of potential changes in plant biodiversity [25]. 
+5.2.2. Impact on animals 
+As a major driver of speciation and extinction cycles, global warming has a profound direct effect on terrestrial animals. 
+Animals are responding to climate change through migration, adaptation, or, in some cases, extinction. For example, 
+during a drought in northern Kenya, cattle have died, highlighting the severe impacts of extreme weather [26]. Migration 
+is a natural response to climate change, with species capable of long -distance movements likely to alter their ranges. 
+Migratory birds and insects are arriving at their summer feeding and nesting grounds several days or weeks earlier than 
+they did in the 20th century. These migrations often follow changes in temperature, altitude, and other environmental 
+factors due to global war ming. Phenological changes, which refer to shifts in the timing of biological events, may be
+
+
+======================================================================
+CHUNK_ID: 31
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 7
+======================================================================
+
+inherited or not. Such changes often involve adjustments in the timing of reproduction, mating, migration, and feeding.
+
+
+======================================================================
+CHUNK_ID: 32
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 8
+======================================================================
+
+GSC Advanced Research and Reviews, 2024, 20(03), 073–087 
+81 
+If left unchecked, these and other impacts of global warming are likely to contribute to the extinction of one -third of 
+animal species from their current ranges by 2080 (Natural Climate Change Journal, 2013) [27].  
+ 
+Figure 7 Dead and dying cattle in northern Kenya during a drought  
+5.3. Social Impacts 
+While the effects of global warming on the natural world are severe, the potential impacts on human society may be 
+even more catastrophic [28]. Agricultural systems are likely to face significant challenges. Although growing seasons 
+may extend into some areas, the combined effects of drought, severe weather, reduced snowmelt, increased pests, lower 
+groundwater tables, and loss of arable land could lead to severe crop failures and food shortages. This could disrupt 
+international food markets, potentially leading to famines, food riots, political instability, and civil unrest. Additionally,
+
+
+======================================================================
+CHUNK_ID: 33
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 8
+======================================================================
+
+the impact of global warming on human health is expected to be significant. Global warming poses a wide range of health 
+risks that could become critical if climate change continues on its current trajectory. Poor and low-income communities 
+are particularly vulnerable, facing higher levels of health risks and fewer resources to cope with environmental changes. 
+Global warming can also cause displacement due to increased freque ncy and intensity of weather -related disasters, 
+which destroy homes and environments, forcing people to seek shelter and sustenance elsewhere. Climate change 
+impacts such as desertification and rising sea levels are gradually eroding livelihoods and pushing people to leave their 
+traditional homelands for more habitable areas [29]. 
+ 
+Figure 8 Potential impacts of global climate change on human health  
+6. Global Warming Mitigation 
+Mitigation refers to efforts to reduce or avoid greenhouse gas emissions, thereby limiting the potential severity of global
+
+
+======================================================================
+CHUNK_ID: 34
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 8
+======================================================================
+
+warming [30]. It may also involve attempts to remove greenhouse gases from the atmosphere [31]. Mitigation strategies
+
+
+======================================================================
+CHUNK_ID: 35
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 9
+======================================================================
+
+GSC Advanced Research and Reviews, 2024, 20(03), 073–087 
+82 
+include the adoption of new technologies, the use of renewable energy sources, behavioral changes, and improvements 
+in energy efficiency. These efforts require a variety of methods and techniques.  
+6.1. Alternative sources of energy 
+6.1.1. Renewable energy 
+Renewable energy includes natural phenomena such as sunlight, water, tides, plant growth, and geothermal heat [32]. 
+This energy is derived from continuous natural processes, either directly from the sun or from heat generated deep 
+within the Earth. Renewable energy sources include solar, wind, marine, hydropower, biomass, geothermal energy, and 
+renewable biofuels, as well as hydrogen -generated electricity and heat. These technologies face challenges related to 
+capital costs, financing, public perception, and the long -standing relian ce on fossil fuels. However, the adoption of
+
+
+======================================================================
+CHUNK_ID: 36
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 9
+======================================================================
+
+renewable energy has expanded much faster than anticipated [33, 34]. Research indicates that most renewable energy 
+technologies have improved in terms of performance and cost, and their role in reducing air poll ution and ensuring 
+energy security outweighs potential disadvantages. 
+ 
+Figure 9 Using renewable energy sources to save the earth from global warming  
+6.1.2. Nuclear energy 
+Nuclear energy is another option due to rising fossil fuel costs and concerns about greenhouse gas emissions. However, 
+the Fukushima nuclear disaster in Japan and subsequent shutdowns of other nuclear facilities have raised concerns 
+about the future of nuclear power. 
+6.2. Energy efficiency and conservation 
+Efficient use of energy, often referr ed to as "energy efficiency," involves reducing the amount of energy required to 
+produce products and services. For example, insulating a home reduces the energy needed for heating and cooling, while
+
+
+======================================================================
+CHUNK_ID: 37
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 9
+======================================================================
+
+fluorescent lights and natural skylights use less energy  than traditional incandescent bulbs. Energy efficiency is a cost -
+effective strategy for supporting economic growth without increasing energy consumption. Energy conservation, which 
+involves using less energy overall, can be achieved through behavioral changes and improvements in energy efficiency. 
+For example, heating a space less in winter or driving less are forms of conservation. While the line between energy 
+efficiency and conservation can be blurry, both are important from an environmental and economi c perspective, 
+especially when aimed at reducing fossil fuel use [35]. 
+6.3. Negative emissions and sinks 
+Negative emissions refer to the permanent removal of carbon dioxide from the atmosphere, such as direct air capture 
+and storage of CO₂ in underground geolog ical formations. A carbon sink is a natural or artificial reservoir that
+
+
+======================================================================
+CHUNK_ID: 38
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 9
+======================================================================
+
+accumulates and stores carbon-containing chemical compounds, such as a growing forest.
+
+
+======================================================================
+CHUNK_ID: 39
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 10
+======================================================================
+
+GSC Advanced Research and Reviews, 2024, 20(03), 073–087 
+83 
+6.3.1. Reforestation 
+Reforestation, a form of carbon sink, involves the natural or deliberate replenishment of forests that have been depleted, 
+typically due to deforestation. Forests play a critical role in the global carbon cycle by absorbing carbon dioxide through 
+photosynthesis. As terrestrial carbon sinks, forests remove significant amounts of this gre enhouse gas from the 
+atmosphere. Despite the continued production of anthropogenic carbon, forests absorb about three billion tons of 
+carbon annually, accounting for roughly 30% of all fossil fuel carbon dioxide emissions. Increasing global forest cover 
+could help offset the effects of global warming. 
+6.3.2. Carbon capture and storage (CCS) 
+Carbon capture and storage (CCS) is a method of reducing global warming by capturing carbon dioxide from large point
+
+
+======================================================================
+CHUNK_ID: 40
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 10
+======================================================================
+
+sources, such as power plants, and storing it safely rather than releasing it into the atmosphere. The IPCC estimates that 
+CCS could contribute between 10% and 55% of the total worldwide carbon reduction effort over the next 90 years. CCS 
+is a crucial technology for CO₂ savings in power generation and industry, th ough operating a CCS -equipped coal-fired 
+power plant requires up to 40% more energy than a conventional plant. Nevertheless, CCS can theoretically capture 
+about 90% of the carbon emitted by the plant [36], as shown in Fig. 10.  
+ 
+Figure 10 Carbon capture and storage (CCS) 
+6.3.3. Negative carbon dioxide emissions 
+Removing carbon from the atmosphere can involve various methods, including direct air capture, biochar, carbon 
+capture and storage, bioenergy, and enhanced weathering technologies. These approaches are so metimes referred to 
+as sink variations or mitigation strategies [37]. Along with other mitigation measures, carbon sinks are considered
+
+
+======================================================================
+CHUNK_ID: 41
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 10
+======================================================================
+
+essential for achieving target carbon dioxide levels in the atmosphere, particularly when combined with negative carbon 
+emissions. 
+6.4. Geoengineering 
+Geoengineering involves the exploration, development, production, and exploitation of subsurface earth resources, as 
+well as the design and construction of earthworks. 
+6.4.1. Solar radiation management 
+This geoengineering method involves reflecting more of the Sun's rays back into space. One approach could be to inject 
+sulfur aerosols into the upper atmosphere, where they would mimic the reflective properties of volcanic ash, thus 
+reducing the amount of solar radiation reaching the Earth [38].
+
+
+======================================================================
+CHUNK_ID: 42
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 11
+======================================================================
+
+GSC Advanced Research and Reviews, 2024, 20(03), 073–087 
+84 
+6.4.2. Iron seeding in the ocean 
+Iron seeding is a geoengineering technique that promotes the growth of phytoplankton near the ocean surface. 
+Phytoplankton absorb carbon dioxide during photosynthesis, and when they die (after about 60 days), the carbon they  
+have absorbed sinks to the ocean floor. Pumping iron into the ocean to stimulate phytoplankton growth could 
+potentially help mitigate global warming. 
+6.4.3. Imitating volcanic eruptions 
+This method involves releasing millions of tons of sulfur dioxide gas into t he atmosphere to create a haze that blocks 
+some of the Sun’s radiation. Many scientists believe that injecting sulfur into the atmosphere could similarly block solar 
+radiation and cool the planet. However, opponents of this method caution that these techno logies are unproven and 
+may provide an excuse for hesitant countries to avoid reducing emissions.  
+6.5. Sector-specific mitigation
+
+
+======================================================================
+CHUNK_ID: 43
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 11
+======================================================================
+
+6.5. Sector-specific mitigation 
+Energy-efficient transportation technologies, such as plug -in hybrid electric vehicles and hydrogen -powered cars, can 
+reduce petroleum consumption and carbon dioxide emissions. Shifting from air and truck transport to electric rail can 
+significantly lower pollution levels [39]. Carbon emissions from electric vehicles can be further reduced if the electricity 
+they use is generated from low-carbon energy sources. In the housing and building sector, emissions depend primarily 
+on the total building area and climate. Government-supported energy efficiency measures, such as passive solar building 
+design, low-energy building techniques, and zero-energy building construction, can make a significant impact. Existing 
+buildings can be made more energy -efficient through insulation, high -efficiency appliances, and other upgrades. 
+Additionally, painting buildings with light colors, planting trees, an d using other methods to cool buildings can reduce
+
+
+======================================================================
+CHUNK_ID: 44
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 11
+======================================================================
+
+the need for air conditioning, saving energy [40]. 
+7. Recommendations to control global warming 
+7.1. Reduce, Reuse, and Recycle 
+Reusing and recycling various items in our daily lives can help mitigate unnatural changes in the climate. Reduce waste 
+by purchasing reusable rather than disposable goods. Opt for minimally packaged products to cut down on waste, and 
+make a habit of reusing paper, newspapers, plastic, glass, and aluminum containers whenever possible.  
+7.2. Plant more trees and stop deforestation 
+If possible, plant trees, as they absorb carbon dioxide and release oxygen through photosynthesis. This simple action 
+can help combat climate change by reducing the amount of carbon dioxide in the atmosphere and mitiga ting the 
+greenhouse effect. 
+7.3. Use the "Off" switch 
+Conserve electricity and reduce global warming by turning off lights when leaving a room and using only as much light
+
+
+======================================================================
+CHUNK_ID: 45
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 11
+======================================================================
+
+as needed. Ensure that appliances like TVs, video players, stereos, and machines are turn ed off when not in use. 
+Additionally, conserve water by turning off the tap while brushing your teeth, shampooing, or washing your car.  
+7.4. Switch to compact fluorescent light bulbs 
+Replacing incandescent bulbs with energy -efficient compact fluorescent light ( CFL) bulbs can significantly reduce 
+carbon dioxide emissions and save up to 60% of energy. 
+7.5. Use alternative energy sources 
+Consider using alternative energy sources such as solar power and wind energy. These renewable sources can replace 
+fossil fuels and help reduce overall greenhouse gas emissions. 
+7.6. Use less air conditioning and heating 
+Improve home insulation, including walls and attics, and use weather stripping or caulking around doors and windows 
+to cut heating costs by over 25%. Adjust heating and cooling settings to moderate levels and turn off the heat during the 
+night or when not at home.
+
+
+======================================================================
+CHUNK_ID: 46
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 12
+======================================================================
+
+GSC Advanced Research and Reviews, 2024, 20(03), 073–087 
+85 
+7.7. Drive smart and drive less 
+Reduce emissions by driving less. Opt for walking, cycling, or using public transportation. Join carpooling options and 
+ensure your vehicle is well-maintained to operate efficiently. 
+7.8. Choose energy-efficient products 
+When purchasing new items, select products that offer good energy efficiency, such as cars with high gas mileage. Avoid 
+products with excessive or non-recyclable packaging. 
+7.9. Promote environmental responsibility 
+Encourage family, friends, and colleagues to practice recycling and energy conservation. Advocate for environmentally 
+friendly programs and policies by engaging with public officials and supporting sustainable practices.  
+8. Conclusion 
+The scientific and environmental communities agree on the harsh reality of global warming and the human factors
+
+
+======================================================================
+CHUNK_ID: 47
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 12
+======================================================================
+
+driving it. The rapid increase in greenhouse gases is problematic, as it affects the environment faster than many living 
+organisms can adapt. This changing and increasingly complex world presents significant challenges for all forms of life.  
+The report discussed here only scratches the surface of the complex field of science and engineering related to global 
+warming. It is a serious threat that demands effective measures to address it. Global warming poses significant problems 
+not only for humans but also for animals and plants. Melting polar ice caps can lead to widespread flooding, while rising 
+sea levels threaten agriculture and fishing industries. Additionally, global warming results in more extreme weather 
+events, increased precipitation followed by prolonged dry spells, changes in plant and animal survival rates, and the 
+depletion of water supplies from glaciers.
+
+
+======================================================================
+CHUNK_ID: 48
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 12
+======================================================================
+
+depletion of water supplies from glaciers. 
+Scientists are observi ng these changes occurring more rapidly than previously anticipated. To address these issues, 
+timely remedial actions are necessary, including the adoption of renewable energy sources and efforts to prevent 
+deforestation. To effectively tackle this threat, innovative solutions must be pursued. 
+References 
+[1] Maslin, M. (2008). Global warming: a very short introduction. OUP Oxford.  
+[2] Hassana, N. E., & Umerb, M. I. (2022). Impacts of greenhouse gas emissions on ambient air quality in kwashe 
+municipal solid waste l andfill in Kurdistan region, Iraq. Eurasian Chemical Communications, 4(10), 1012 -1021. 
+https://doi.org/10.22034/ecc.2022.334227.1379 
+[3] Weart, S. (2008). The carbon dioxide greenhouse effect. The Discovery of Global Warming.  
+[4] Uddin, S. (2022). Causes, effects, and solutions to global warming. Academia Letters, 2.  
+[5] Shiklomanov, I. A. (2000). World freshwater resources. Water.
+
+
+======================================================================
+CHUNK_ID: 49
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 12
+======================================================================
+
+[6] Allard, P. (1992). Global emissions of helium‐3 by subaerial volcanism. Geophysical Research Letters, 19(14), 
+1479-1481. https://doi.org/10.1029/92GL00974 
+[7] Friedlingstein, P., Houghton, R. A., Marland, G., Hackler, J., Boden, T. A., Conway, T. J., ... & Le Quéré, C. (2010). 
+Update on CO2 emissions. Nature geoscience, 3(12), 811-812. https://doi.org/10.1038/ngeo1022 
+[8] United States. Environmental Protection Agency. Office of Policy. (1995). Inventory of US Greenhouse Gas 
+Emissions and Sinks: 1990-1994 (No. 96). US Environmental Protection Agency. 
+[9] Fearnside, P. M., & Laurance, W. F. (20 04). Tropical deforestation and greenhouse‐gas emissions. Ecological 
+Applications, 14(4), 982-986. https://doi.org/10.1890/03-5225 
+[10] Billé, R., Chabason, L., Chiarolla, C., Jardin, M., Kleitz, G., Le Duc, J. P ., & Mermet, L. (2010). Global Governance of 
+Biodiversity. New Perspectives on a Shared Challenge. Les rapports de l'IFFRI, vol. Health and Environment 
+Reports, 6, 98.
+
+
+======================================================================
+CHUNK_ID: 50
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 12
+======================================================================
+
+Reports, 6, 98.  
+[11] Galloway, J., Erisman, J., Townsend, A., Davidson, E., Bekunda, M., Cai, Z., ... & Sutton, M. (2007). Human alteration 
+of the nitrogen cycle: threats, benefits and opportunities.
+
+
+======================================================================
+CHUNK_ID: 51
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 13
+======================================================================
+
+GSC Advanced Research and Reviews, 2024, 20(03), 073–087 
+86 
+[12] Banger, K., Tian, H., & Lu, C. (2012). Do nitrogen fertilizers stimulate or inhibit methane emissions from rice 
+fields?. Global Change Biology, 18(10), 3259-3267. https://doi.org/10.1111/j.1365-2486.2012.02762.x 
+[13] Banks, J., & Force, C. A. T. (2012). Barriers and Opportunities for Reducing Methane Emmissions from Coal Mines. 
+Clean Air Task Force, 1-22. 
+[14] Oreskes, N. (2004). The scientific consensus on climate change. Science, 306(5702), 1686 -1686. 
+https://doi.org/10.1126/science.1103618 
+[15] Lockwood, M. (2010). Solar change and climate: an update in the light of the current exceptional solar minimum. 
+Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 466(2114), 303 -329. 
+https://doi.org/10.1098/rspa.2009.0519 
+[16] Ageed, S., Nerweyi, N. E. H., & Ismael, S. F. (2021). Effect of Carbon Dioxide Emitted from Private Electric
+
+
+======================================================================
+CHUNK_ID: 52
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 13
+======================================================================
+
+Generators on Health and the Environment in the Duhok Governorate/Kurdistan Region of Iraq. Annals of the 
+Romanian Society for Cell Biology, 9024-9032. 
+[17] Ramanujan, K. (2005). Methane’s impacts on climate change may be twice previous estimates. PhysOrg. com. 
+physorg. com/news5258. html. 
+[18] Prather, M. J., & Hsu, J. (2008). NF3, the greenhouse gas missing from Kyoto. Geophysical Research Letters, 
+35(12). https://doi.org/10.1029/2008GL034542 
+[19] McMichael, A. J., Woodruff, R. E., & Hales, S. (2006). Climate change and human health: present and future risks. 
+The lancet, 367(9513), 859-869. https://doi.org/10.1016/S0140-6736(06)68079-3 
+[20] Bell, R. G., & Callan, D. (2011). More than Meets the Eye The Social Cost of Carbon in US Climate Policy. Plain 
+English. Policy brief. Washington DC: Resources Institute (WRI). 
+[21] Carey, J. (2012). GLOBAL WARMING: Faster Than Expected? Scientific American, 307(5), 50 –55. 
+http://www.jstor.org/stable/26016173
+
+
+======================================================================
+CHUNK_ID: 53
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 13
+======================================================================
+
+http://www.jstor.org/stable/26016173 
+[22] Rosenzweig, C., Karoly, D., Vicarelli, M., Neofotis, P., Wu, Q., Casassa, G., ... & Imeson, A. (2008). Attributing physical 
+and biological impacts to anthropogenic climate change. Nature, 453(7193), 353 -357. 
+https://doi.org/10.1038/nature06937 
+[23] Gattuso, J. P., Frankignoulle, M., Bourge, I., Romaine, S., & Buddemeier, R. W. (1998). Effect of calcium carbonate 
+saturation of seawater on coral calcification. Global and Planetary Change, 18(1 -2), 37 -46. 
+https://doi.org/10.1016/S0921-8181(98)00035-6 
+[24] Steffen, W. L., & Canadell, J. G. (2005). Carbon dioxide fertilisation and climate change policy. AGO.  
+[25] Sala, O. E., Stuart Chapin, F. I. I. I., Armesto, J. J., Berlow, E., Bloomfield, J., Dirzo, R., ... & Wall, D. H. (200 0). Global 
+biodiversity scenarios for the year 2100. science, 287(5459), 1770 -1774. 
+https://doi.org/10.1126/science.287.5459.177
+
+
+======================================================================
+CHUNK_ID: 54
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 13
+======================================================================
+
+https://doi.org/10.1126/science.287.5459.177 
+[26] Lundy, M., Montgomery, I., & Russ, J. (2010). Climate change‐linked range expansion of Nathusius’ pipistrelle bat, 
+Pipistrellus nathusii (Keyserling & Blasius, 1839). Journal of Biogeography, 37(12), 2232 -2242. 
+https://doi.org/10.1111/j.1365-2699.2010.02384.x 
+[27] Sahney, S., Benton, M. J., & Falcon -Lang, H. J. (2010). Rainforest collapse triggered Carboniferous tetrapod 
+diversification in Euramerica. Geology, 38(12), 1079-1082. https://doi.org/10.1130/G31182.1 
+[28] McMichael, A. J., Woodruff, R. E., & Hales, S. (2006). Climate change and human health: present and future risks. 
+The lancet, 367(9513), 859-869. https://doi.org/10.1016/S0140-6736(06)68079-3 
+[29] Wilbanks, T. J., Lankao, P. R., Bao, M., Berkhout, F. G. H., Cairncross, S., Ceron, J. P., ... & Zapata -Marti, R. (2007). 
+Industry, settlement and society. In Climate change 2007: Impacts, adaptation and vulnerability, c ontribution of
+
+
+======================================================================
+CHUNK_ID: 55
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 13
+======================================================================
+
+working group II to the fourth assessment report of the intergovernmental panel on climate change (pp. 357 -
+390). Cambridge University Press. 
+[30] Fisher, B. S., Nakicenovic, N., Alfsen, K., Corfee-Morlot, J., de La Chesnaye, F., Hourcade, J. C., ... & Warren, R. (2007). 
+Issues related to mitigation in the long term context. Climate Change 2007: Mitigation. Contribution of Working 
+Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 82.  
+[31] Skea, J., Shukla, P. R., Reisinger, A., Slade, R., Pathak, M., Al Khourdajie, A., ... & Winkler, H. (2022). Summary for 
+policymakers. In Climate Change 2022: Mitigation of Climate Change: Contribution of Working Group III to the 
+Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press.
+
+
+======================================================================
+CHUNK_ID: 56
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 14
+======================================================================
+
+GSC Advanced Research and Reviews, 2024, 20(03), 073–087 
+87 
+[32] International Energy Agency. (2009). World energy outlook (p. 17). Paris: OECD/IEA.  
+[33] Gipe, P. (2013). 100 Percent Renewable Vision Building. Renewable Energy World. Retrieved on, 10.  
+[34] Aitken, D. W. (2003). Transitioning to a renewable energy future. ISES White Paper.   
+[35] Canadell, J. G., & Raupach, M. R. (2008). Managing forests for climate change mitigation. science, 320(5882), 1456-
+1457. https://doi.org/10.1126/science.1155458 
+[36] Robinson, S. (2010). How to reduce carbon emissions: capture and store it. Time. com.  
+[37] International Energy Agency. (2009). Technology roadmap: Carbon capture and storage. OECD Publishing.  
+[38] Caldeira, K., & Wood, L. (2008).  Global and Arctic climate engineering: numerical model studies. Philosophical 
+Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 366(1882), 4039 -4056. 
+https://doi.org/10.1098/rsta.2008.0132
+
+
+======================================================================
+CHUNK_ID: 57
+SOURCE: ./data/pdfs\global war pdf.pdf
+PAGE: 14
+======================================================================
+
+https://doi.org/10.1098/rsta.2008.0132 
+[39] Lowe, M. D. (1994). The global rail revival. Society, 31(5). https://doi.org/10.1007/BF02693262 
+[40] Rosenfeld, A. H., Romm, J. J., Akbari, H., & Lloyd, A. C. (1997). Painting the tow n white and green. Technology 
+Review, 100(2), 52-59.
+

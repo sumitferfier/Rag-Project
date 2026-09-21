@@ -1,0 +1,23 @@
+fastapi
+uvicorn[standard]
+python-multipart
+
+langchain
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+langchain-chroma
+langgraph
+
+chromadb
+
+pydantic-settings
+python-dotenv
+pypdf
+google-genai
+
+# Authentication
+python-jose[cryptography]
+bcrypt
+sqlalchemy
+email-validator
